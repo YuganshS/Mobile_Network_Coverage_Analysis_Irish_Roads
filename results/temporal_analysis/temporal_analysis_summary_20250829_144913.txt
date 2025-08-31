@@ -1,0 +1,8 @@
+TEMPORAL ANALYSIS SUMMARY
+==================================================
+Generated: 2025-08-29 14:49:13
+==================================================
+
+Weekday/Weekend Analysis: Available
+Peak Hour Analysis: Available
+Multiple Peak Hours Analysis: Available

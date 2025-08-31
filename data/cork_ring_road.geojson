@@ -1,0 +1,5106 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-07-30T11:57:30Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5317295",
+        "bicycle": "no",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "80",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "website": "https://jacklynchtunnel.ie/",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3934061,
+            51.8971707
+          ],
+          [
+            -8.3934517,
+            51.8969432
+          ],
+          [
+            -8.3934809,
+            51.8966567
+          ],
+          [
+            -8.3934917,
+            51.8961848
+          ],
+          [
+            -8.3934554,
+            51.8957261
+          ],
+          [
+            -8.3933616,
+            51.8952941
+          ],
+          [
+            -8.393269,
+            51.8949156
+          ],
+          [
+            -8.3931376,
+            51.8945729
+          ]
+        ]
+      },
+      "id": "way/5317295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5404685",
+        "bicycle": "no",
+        "cutting": "yes",
+        "cycleway": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "incline": "up",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "60",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "website": "https://jacklynchtunnel.ie/",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3903993,
+            51.902276
+          ],
+          [
+            -8.3897025,
+            51.9028625
+          ]
+        ]
+      },
+      "id": "way/5404685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5404686",
+        "bicycle": "no",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "-1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "80",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "tunnel:name": "Jack Lynch Tunnel",
+        "tunnel:name:en": "Jack Lynch Tunnel",
+        "website": "https://jacklynchtunnel.ie/",
+        "wikidata": "Q6113774",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3935826,
+            51.897185
+          ],
+          [
+            -8.3930011,
+            51.8987585
+          ],
+          [
+            -8.3922799,
+            51.9000098
+          ],
+          [
+            -8.3913784,
+            51.9011599
+          ],
+          [
+            -8.3903993,
+            51.902276
+          ]
+        ]
+      },
+      "id": "way/5404686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/5404689",
+        "bicycle": "no",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "-1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "80",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "tunnel": "yes",
+        "tunnel:name": "Jack Lynch Tunnel",
+        "tunnel:name:en": "Jack Lynch Tunnel",
+        "website": "https://jacklynchtunnel.ie/",
+        "wikidata": "Q6113774",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3902706,
+            51.9022156
+          ],
+          [
+            -8.3905022,
+            51.9019329
+          ],
+          [
+            -8.3912192,
+            51.9011046
+          ],
+          [
+            -8.3921166,
+            51.8999683
+          ],
+          [
+            -8.3928389,
+            51.8987058
+          ],
+          [
+            -8.3934061,
+            51.8971707
+          ]
+        ]
+      },
+      "id": "way/5404689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22530570",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4690937,
+            51.8736157
+          ],
+          [
+            -8.4668302,
+            51.8738331
+          ],
+          [
+            -8.4659708,
+            51.8739054
+          ],
+          [
+            -8.4650878,
+            51.8739667
+          ],
+          [
+            -8.4638505,
+            51.8740262
+          ],
+          [
+            -8.4615956,
+            51.8740709
+          ],
+          [
+            -8.4597485,
+            51.8740338
+          ],
+          [
+            -8.4578105,
+            51.8739422
+          ],
+          [
+            -8.455461,
+            51.8738143
+          ],
+          [
+            -8.4539641,
+            51.8737382
+          ],
+          [
+            -8.4534067,
+            51.8737413
+          ],
+          [
+            -8.4527012,
+            51.8737586
+          ],
+          [
+            -8.4521856,
+            51.8737855
+          ],
+          [
+            -8.4516421,
+            51.8738351
+          ],
+          [
+            -8.4510681,
+            51.8739044
+          ],
+          [
+            -8.450425,
+            51.8740163
+          ],
+          [
+            -8.4499431,
+            51.874112
+          ]
+        ]
+      },
+      "id": "way/22530570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22530588",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4710211,
+            51.8734395
+          ],
+          [
+            -8.4717442,
+            51.873451
+          ],
+          [
+            -8.4724421,
+            51.873489
+          ],
+          [
+            -8.4736303,
+            51.8735923
+          ],
+          [
+            -8.4743266,
+            51.8736875
+          ],
+          [
+            -8.4754034,
+            51.8738763
+          ],
+          [
+            -8.4764271,
+            51.8740983
+          ],
+          [
+            -8.477766,
+            51.8744203
+          ],
+          [
+            -8.4803098,
+            51.8749539
+          ],
+          [
+            -8.4811579,
+            51.8751075
+          ],
+          [
+            -8.4820173,
+            51.8752288
+          ]
+        ]
+      },
+      "id": "way/22530588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22530605",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.471048,
+            51.8735573
+          ],
+          [
+            -8.470626,
+            51.8735493
+          ],
+          [
+            -8.4700745,
+            51.8735638
+          ],
+          [
+            -8.4695233,
+            51.8735853
+          ],
+          [
+            -8.4690937,
+            51.8736157
+          ]
+        ]
+      },
+      "id": "way/22530605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22530632",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.46913,
+            51.8734957
+          ],
+          [
+            -8.4696447,
+            51.873464
+          ],
+          [
+            -8.4701452,
+            51.8734445
+          ],
+          [
+            -8.4705881,
+            51.8734357
+          ],
+          [
+            -8.4710211,
+            51.8734395
+          ]
+        ]
+      },
+      "id": "way/22530632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/22959141",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "lanes": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "name": "Mahon Interchange",
+        "name:en": "Mahon Interchange",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3965358,
+            51.8842834
+          ],
+          [
+            -8.3962004,
+            51.8843556
+          ],
+          [
+            -8.3957049,
+            51.8844859
+          ],
+          [
+            -8.3955014,
+            51.8845442
+          ],
+          [
+            -8.3953069,
+            51.8846051
+          ],
+          [
+            -8.3948972,
+            51.8847597
+          ],
+          [
+            -8.3946284,
+            51.8848738
+          ],
+          [
+            -8.3943694,
+            51.884991
+          ],
+          [
+            -8.3939579,
+            51.8851941
+          ],
+          [
+            -8.3937348,
+            51.8853101
+          ],
+          [
+            -8.3933372,
+            51.8855041
+          ]
+        ]
+      },
+      "id": "way/22959141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23031640",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "destination": "eastbound;dublin;waterford",
+        "destination:ref": "N40",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "lanes": "1",
+        "lit": "yes",
+        "loc_name": "South Link",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4677608,
+            51.8751771
+          ],
+          [
+            -8.4682036,
+            51.8748247
+          ],
+          [
+            -8.4686403,
+            51.874515
+          ],
+          [
+            -8.4688499,
+            51.8743738
+          ],
+          [
+            -8.4690547,
+            51.8742301
+          ],
+          [
+            -8.4691031,
+            51.8741892
+          ],
+          [
+            -8.4691308,
+            51.874161
+          ],
+          [
+            -8.4691501,
+            51.8741311
+          ],
+          [
+            -8.4691609,
+            51.8741101
+          ],
+          [
+            -8.4691648,
+            51.8740892
+          ],
+          [
+            -8.469173,
+            51.8740278
+          ],
+          [
+            -8.4691608,
+            51.8740047
+          ],
+          [
+            -8.4691499,
+            51.8739772
+          ],
+          [
+            -8.4691236,
+            51.8739503
+          ],
+          [
+            -8.4690872,
+            51.8739216
+          ],
+          [
+            -8.4690494,
+            51.8738956
+          ],
+          [
+            -8.4689922,
+            51.8738701
+          ],
+          [
+            -8.4689192,
+            51.8738534
+          ],
+          [
+            -8.4688413,
+            51.8738401
+          ],
+          [
+            -8.468694,
+            51.8738251
+          ],
+          [
+            -8.4685052,
+            51.8738259
+          ],
+          [
+            -8.4683378,
+            51.8738356
+          ],
+          [
+            -8.4678118,
+            51.8738816
+          ],
+          [
+            -8.4675525,
+            51.8738944
+          ]
+        ]
+      },
+      "id": "way/23031640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/29272160",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "yes",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "120",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5763898,
+            51.8740641
+          ],
+          [
+            -8.5735334,
+            51.8745488
+          ],
+          [
+            -8.5721556,
+            51.8748012
+          ],
+          [
+            -8.5711433,
+            51.8749802
+          ],
+          [
+            -8.5699283,
+            51.875191
+          ],
+          [
+            -8.5686258,
+            51.8754179
+          ],
+          [
+            -8.5675848,
+            51.8755894
+          ],
+          [
+            -8.5661421,
+            51.8758668
+          ],
+          [
+            -8.5645229,
+            51.8761459
+          ],
+          [
+            -8.5637062,
+            51.8762906
+          ],
+          [
+            -8.562892,
+            51.8764246
+          ],
+          [
+            -8.5624991,
+            51.8764795
+          ],
+          [
+            -8.5620082,
+            51.876537
+          ],
+          [
+            -8.5615679,
+            51.876577
+          ],
+          [
+            -8.5611428,
+            51.8766073
+          ],
+          [
+            -8.5606974,
+            51.8766241
+          ],
+          [
+            -8.5601461,
+            51.8766318
+          ],
+          [
+            -8.5597649,
+            51.8766298
+          ],
+          [
+            -8.5593894,
+            51.8766211
+          ],
+          [
+            -8.5590096,
+            51.8766051
+          ],
+          [
+            -8.5586355,
+            51.8765784
+          ],
+          [
+            -8.5582612,
+            51.8765465
+          ],
+          [
+            -8.5578843,
+            51.8765063
+          ],
+          [
+            -8.5573361,
+            51.8764277
+          ],
+          [
+            -8.5570646,
+            51.8763871
+          ],
+          [
+            -8.5567955,
+            51.8763424
+          ],
+          [
+            -8.5562656,
+            51.8762365
+          ],
+          [
+            -8.5557887,
+            51.8761262
+          ],
+          [
+            -8.5553297,
+            51.8760083
+          ],
+          [
+            -8.5548946,
+            51.8758801
+          ],
+          [
+            -8.5543847,
+            51.8757144
+          ],
+          [
+            -8.553953,
+            51.8755619
+          ],
+          [
+            -8.5535254,
+            51.8753925
+          ],
+          [
+            -8.5527106,
+            51.8750223
+          ],
+          [
+            -8.55194,
+            51.8746483
+          ],
+          [
+            -8.551547,
+            51.8744656
+          ],
+          [
+            -8.5511576,
+            51.8742917
+          ],
+          [
+            -8.5509026,
+            51.8741869
+          ],
+          [
+            -8.5506418,
+            51.874085
+          ],
+          [
+            -8.5499369,
+            51.873822
+          ]
+        ]
+      },
+      "id": "way/29272160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35421863",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "default",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3924566,
+            51.8934471
+          ],
+          [
+            -8.3922187,
+            51.8931142
+          ],
+          [
+            -8.3918633,
+            51.8926173
+          ],
+          [
+            -8.3914357,
+            51.892028
+          ],
+          [
+            -8.3911761,
+            51.8916194
+          ],
+          [
+            -8.3909849,
+            51.8912564
+          ],
+          [
+            -8.3908601,
+            51.890999
+          ],
+          [
+            -8.3907553,
+            51.8906797
+          ],
+          [
+            -8.3906528,
+            51.8902496
+          ],
+          [
+            -8.3905967,
+            51.8898351
+          ],
+          [
+            -8.3905756,
+            51.8895641
+          ],
+          [
+            -8.3905855,
+            51.8893372
+          ],
+          [
+            -8.3906053,
+            51.889091
+          ],
+          [
+            -8.3906536,
+            51.8887786
+          ],
+          [
+            -8.3907593,
+            51.888356
+          ],
+          [
+            -8.3908349,
+            51.8881257
+          ],
+          [
+            -8.3909505,
+            51.8878417
+          ],
+          [
+            -8.3911109,
+            51.8875341
+          ],
+          [
+            -8.3913775,
+            51.8871134
+          ],
+          [
+            -8.3916286,
+            51.8867853
+          ],
+          [
+            -8.3918483,
+            51.8865401
+          ],
+          [
+            -8.3922342,
+            51.8861392
+          ],
+          [
+            -8.3926145,
+            51.8857984
+          ],
+          [
+            -8.3931804,
+            51.885388
+          ],
+          [
+            -8.393574,
+            51.8851469
+          ],
+          [
+            -8.393983,
+            51.8849049
+          ],
+          [
+            -8.3943628,
+            51.8847153
+          ],
+          [
+            -8.3950526,
+            51.8844085
+          ],
+          [
+            -8.3957206,
+            51.8841619
+          ],
+          [
+            -8.3961043,
+            51.8840369
+          ],
+          [
+            -8.3965043,
+            51.8839198
+          ],
+          [
+            -8.3971397,
+            51.8837578
+          ],
+          [
+            -8.3980821,
+            51.883582
+          ],
+          [
+            -8.3994947,
+            51.8834095
+          ],
+          [
+            -8.401303,
+            51.8831959
+          ],
+          [
+            -8.4021483,
+            51.8830915
+          ],
+          [
+            -8.4034039,
+            51.8829318
+          ]
+        ]
+      },
+      "id": "way/35421863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/35421864",
+        "bicycle": "no",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "80",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "website": "https://jacklynchtunnel.ie/",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3932559,
+            51.8944379
+          ],
+          [
+            -8.3933718,
+            51.8947284
+          ],
+          [
+            -8.393486,
+            51.8950698
+          ],
+          [
+            -8.393607,
+            51.8955184
+          ],
+          [
+            -8.3936614,
+            51.8958546
+          ],
+          [
+            -8.3936751,
+            51.8961688
+          ],
+          [
+            -8.3936608,
+            51.8966636
+          ],
+          [
+            -8.3936236,
+            51.8969455
+          ],
+          [
+            -8.3935826,
+            51.897185
+          ]
+        ]
+      },
+      "id": "way/35421864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/55637431",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4820173,
+            51.8752288
+          ],
+          [
+            -8.4831783,
+            51.8753865
+          ],
+          [
+            -8.483714,
+            51.8754436
+          ],
+          [
+            -8.4842551,
+            51.8754952
+          ],
+          [
+            -8.4850909,
+            51.8755618
+          ],
+          [
+            -8.4859275,
+            51.875609
+          ],
+          [
+            -8.4868349,
+            51.8756449
+          ],
+          [
+            -8.4874647,
+            51.8756762
+          ],
+          [
+            -8.4883104,
+            51.8757326
+          ],
+          [
+            -8.4901219,
+            51.8758031
+          ]
+        ]
+      },
+      "id": "way/55637431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/61587507",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4411926,
+            51.8770985
+          ],
+          [
+            -8.4417558,
+            51.8768867
+          ],
+          [
+            -8.4443053,
+            51.8759129
+          ],
+          [
+            -8.4455281,
+            51.8754244
+          ]
+        ]
+      },
+      "id": "way/61587507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69750067",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "120",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5372744,
+            51.8723664
+          ],
+          [
+            -8.5384941,
+            51.8722962
+          ],
+          [
+            -8.5390338,
+            51.8722681
+          ],
+          [
+            -8.5397312,
+            51.8722731
+          ],
+          [
+            -8.5404409,
+            51.872274
+          ],
+          [
+            -8.5411488,
+            51.8722873
+          ],
+          [
+            -8.5418509,
+            51.8723121
+          ],
+          [
+            -8.5424317,
+            51.8723377
+          ],
+          [
+            -8.5430058,
+            51.8723745
+          ],
+          [
+            -8.5435847,
+            51.8724162
+          ],
+          [
+            -8.5441595,
+            51.8724659
+          ],
+          [
+            -8.5447233,
+            51.8725221
+          ],
+          [
+            -8.545278,
+            51.8725898
+          ],
+          [
+            -8.545773,
+            51.8726561
+          ],
+          [
+            -8.5462647,
+            51.8727319
+          ],
+          [
+            -8.5468446,
+            51.872835
+          ],
+          [
+            -8.5474229,
+            51.8729471
+          ],
+          [
+            -8.5479011,
+            51.8730543
+          ],
+          [
+            -8.5483769,
+            51.8731721
+          ],
+          [
+            -8.5488082,
+            51.8732926
+          ],
+          [
+            -8.549325,
+            51.8734434
+          ],
+          [
+            -8.5497863,
+            51.8735857
+          ],
+          [
+            -8.5502757,
+            51.8737591
+          ],
+          [
+            -8.5507484,
+            51.8739371
+          ],
+          [
+            -8.5512144,
+            51.8741246
+          ],
+          [
+            -8.5515978,
+            51.8742928
+          ],
+          [
+            -8.5520408,
+            51.8744994
+          ],
+          [
+            -8.5528445,
+            51.8748818
+          ],
+          [
+            -8.5532619,
+            51.8750791
+          ],
+          [
+            -8.5536818,
+            51.87526
+          ],
+          [
+            -8.5541068,
+            51.8754307
+          ],
+          [
+            -8.5545604,
+            51.8755968
+          ],
+          [
+            -8.5549917,
+            51.8757373
+          ],
+          [
+            -8.5554352,
+            51.8758655
+          ],
+          [
+            -8.5558902,
+            51.8759789
+          ],
+          [
+            -8.5563479,
+            51.8760838
+          ],
+          [
+            -8.5567352,
+            51.8761624
+          ],
+          [
+            -8.5571503,
+            51.8762365
+          ],
+          [
+            -8.5575561,
+            51.8763017
+          ],
+          [
+            -8.5579726,
+            51.8763516
+          ],
+          [
+            -8.5583247,
+            51.8763908
+          ],
+          [
+            -8.5586859,
+            51.8764214
+          ],
+          [
+            -8.5590435,
+            51.8764471
+          ],
+          [
+            -8.5594101,
+            51.8764656
+          ],
+          [
+            -8.5600084,
+            51.8764757
+          ],
+          [
+            -8.5605943,
+            51.8764705
+          ],
+          [
+            -8.561132,
+            51.8764447
+          ],
+          [
+            -8.5614144,
+            51.8764291
+          ],
+          [
+            -8.5616959,
+            51.8764069
+          ],
+          [
+            -8.5622696,
+            51.8763482
+          ],
+          [
+            -8.5628253,
+            51.8762743
+          ],
+          [
+            -8.5644721,
+            51.8759932
+          ],
+          [
+            -8.5661153,
+            51.8756977
+          ]
+        ]
+      },
+      "id": "way/69750067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/70729138",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "destination:ref": "N40",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "lanes": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "50",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3984346,
+            51.8846178
+          ],
+          [
+            -8.398278,
+            51.884507
+          ],
+          [
+            -8.3981936,
+            51.8843567
+          ],
+          [
+            -8.398179,
+            51.884333
+          ],
+          [
+            -8.3981463,
+            51.8842806
+          ],
+          [
+            -8.3980949,
+            51.8842302
+          ],
+          [
+            -8.3980324,
+            51.8841948
+          ]
+        ]
+      },
+      "id": "way/70729138"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/76932611",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4377336,
+            51.8785246
+          ],
+          [
+            -8.4372363,
+            51.8786944
+          ]
+        ]
+      },
+      "id": "way/76932611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/76932617",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4376264,
+            51.8784602
+          ],
+          [
+            -8.4383926,
+            51.878172
+          ],
+          [
+            -8.4397624,
+            51.8776468
+          ],
+          [
+            -8.4407993,
+            51.8772528
+          ]
+        ]
+      },
+      "id": "way/76932617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/76932619",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4371489,
+            51.8786268
+          ],
+          [
+            -8.4376264,
+            51.8784602
+          ]
+        ]
+      },
+      "id": "way/76932619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/76932623",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4262847,
+            51.8804349
+          ],
+          [
+            -8.4255129,
+            51.880449
+          ],
+          [
+            -8.4247477,
+            51.8804389
+          ],
+          [
+            -8.4239827,
+            51.8804136
+          ],
+          [
+            -8.42342,
+            51.8803769
+          ],
+          [
+            -8.4227733,
+            51.8803181
+          ],
+          [
+            -8.4220115,
+            51.8802313
+          ],
+          [
+            -8.4213025,
+            51.8801534
+          ],
+          [
+            -8.4208051,
+            51.8801148
+          ],
+          [
+            -8.4201747,
+            51.8800943
+          ],
+          [
+            -8.4196986,
+            51.8801026
+          ]
+        ]
+      },
+      "id": "way/76932623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78048660",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5383452,
+            51.8724599
+          ],
+          [
+            -8.5371745,
+            51.8725142
+          ],
+          [
+            -8.5362269,
+            51.87258
+          ],
+          [
+            -8.53573,
+            51.8726279
+          ],
+          [
+            -8.5352353,
+            51.8726771
+          ],
+          [
+            -8.5344247,
+            51.8727706
+          ],
+          [
+            -8.5335736,
+            51.8728895
+          ],
+          [
+            -8.5327992,
+            51.873014
+          ],
+          [
+            -8.5318943,
+            51.873185
+          ],
+          [
+            -8.5308167,
+            51.873395
+          ],
+          [
+            -8.5296999,
+            51.8736137
+          ],
+          [
+            -8.528898,
+            51.8737546
+          ]
+        ]
+      },
+      "id": "way/78048660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78049000",
+        "bicycle": "no",
+        "cutting": "yes",
+        "cycleway": "no",
+        "destination:ref": "N8;N25",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "slight_left|through|through"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3892567,
+            51.9032047
+          ],
+          [
+            -8.3890785,
+            51.9033836
+          ],
+          [
+            -8.3889747,
+            51.9035016
+          ],
+          [
+            -8.3888959,
+            51.9036252
+          ]
+        ]
+      },
+      "id": "way/78049000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78049003",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3908679,
+            51.8888805
+          ],
+          [
+            -8.3908014,
+            51.8893364
+          ],
+          [
+            -8.3908003,
+            51.8897666
+          ],
+          [
+            -8.3908585,
+            51.8902596
+          ],
+          [
+            -8.3909315,
+            51.890605
+          ],
+          [
+            -8.3910463,
+            51.8909381
+          ],
+          [
+            -8.3911675,
+            51.8912159
+          ],
+          [
+            -8.3913537,
+            51.8915862
+          ],
+          [
+            -8.3916098,
+            51.8919815
+          ],
+          [
+            -8.3920288,
+            51.8925703
+          ],
+          [
+            -8.3923705,
+            51.8930303
+          ],
+          [
+            -8.3926565,
+            51.8934343
+          ]
+        ]
+      },
+      "id": "way/78049003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/78272249",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5055104,
+            51.8763005
+          ],
+          [
+            -8.5049703,
+            51.8763219
+          ],
+          [
+            -8.5040921,
+            51.8763375
+          ],
+          [
+            -8.5031457,
+            51.8763211
+          ],
+          [
+            -8.5022847,
+            51.8762844
+          ],
+          [
+            -8.5015893,
+            51.8762546
+          ],
+          [
+            -8.5006984,
+            51.8762122
+          ],
+          [
+            -8.5000907,
+            51.8761818
+          ],
+          [
+            -8.4992165,
+            51.8761485
+          ],
+          [
+            -8.4985271,
+            51.8761274
+          ],
+          [
+            -8.497633,
+            51.8761045
+          ],
+          [
+            -8.4968374,
+            51.876072
+          ]
+        ]
+      },
+      "id": "way/78272249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/82976433",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4413385,
+            51.8771516
+          ],
+          [
+            -8.4410712,
+            51.8772556
+          ]
+        ]
+      },
+      "id": "way/82976433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/82976439",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4409544,
+            51.877301
+          ],
+          [
+            -8.4398979,
+            51.8777092
+          ],
+          [
+            -8.4377336,
+            51.8785246
+          ]
+        ]
+      },
+      "id": "way/82976439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/82976442",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4407993,
+            51.8772528
+          ],
+          [
+            -8.4411926,
+            51.8770985
+          ]
+        ]
+      },
+      "id": "way/82976442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/119027925",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5243862,
+            51.874272
+          ],
+          [
+            -8.5251545,
+            51.8741883
+          ],
+          [
+            -8.5255417,
+            51.8741449
+          ],
+          [
+            -8.5259284,
+            51.8740933
+          ],
+          [
+            -8.5272963,
+            51.8738966
+          ],
+          [
+            -8.528662,
+            51.8736808
+          ],
+          [
+            -8.5297537,
+            51.8734721
+          ]
+        ]
+      },
+      "id": "way/119027925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072746",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "interpretation based on pulished brochure and visual survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5243835,
+            51.8743584
+          ],
+          [
+            -8.5239876,
+            51.8743987
+          ]
+        ]
+      },
+      "id": "way/153072746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072761",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5055039,
+            51.8762007
+          ],
+          [
+            -8.5061214,
+            51.8761677
+          ],
+          [
+            -8.5067074,
+            51.8761235
+          ]
+        ]
+      },
+      "id": "way/153072761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072763",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5225094,
+            51.8744389
+          ],
+          [
+            -8.5229586,
+            51.8744069
+          ]
+        ]
+      },
+      "id": "way/153072763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072796",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5239876,
+            51.8743987
+          ],
+          [
+            -8.5229767,
+            51.8744992
+          ]
+        ]
+      },
+      "id": "way/153072796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072806",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5067381,
+            51.8762329
+          ],
+          [
+            -8.5061445,
+            51.8762717
+          ],
+          [
+            -8.5055104,
+            51.8763005
+          ]
+        ]
+      },
+      "id": "way/153072806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072817",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5239605,
+            51.8743182
+          ],
+          [
+            -8.5243862,
+            51.874272
+          ]
+        ]
+      },
+      "id": "way/153072817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072839",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5229767,
+            51.8744992
+          ],
+          [
+            -8.5225419,
+            51.874535
+          ]
+        ]
+      },
+      "id": "way/153072839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072844",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5019061,
+            51.8761501
+          ],
+          [
+            -8.5033647,
+            51.8762178
+          ],
+          [
+            -8.5041119,
+            51.876237
+          ],
+          [
+            -8.5050565,
+            51.8762141
+          ],
+          [
+            -8.5055039,
+            51.8762007
+          ]
+        ]
+      },
+      "id": "way/153072844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072846",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5133226,
+            51.8757898
+          ],
+          [
+            -8.5138673,
+            51.8757344
+          ],
+          [
+            -8.5145741,
+            51.8756619
+          ],
+          [
+            -8.5153009,
+            51.8755586
+          ],
+          [
+            -8.5160168,
+            51.8754298
+          ],
+          [
+            -8.5172098,
+            51.8751733
+          ],
+          [
+            -8.5179576,
+            51.875006
+          ],
+          [
+            -8.5187086,
+            51.8748568
+          ],
+          [
+            -8.5194509,
+            51.8747367
+          ],
+          [
+            -8.5203862,
+            51.8746192
+          ],
+          [
+            -8.5213329,
+            51.874528
+          ],
+          [
+            -8.5225094,
+            51.8744389
+          ]
+        ]
+      },
+      "id": "way/153072846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153072849",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5229586,
+            51.8744069
+          ],
+          [
+            -8.5239605,
+            51.8743182
+          ]
+        ]
+      },
+      "id": "way/153072849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/154684116",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5225419,
+            51.874535
+          ],
+          [
+            -8.5213092,
+            51.8746453
+          ],
+          [
+            -8.5204362,
+            51.8747201
+          ],
+          [
+            -8.5199111,
+            51.8747838
+          ],
+          [
+            -8.5193836,
+            51.8748559
+          ],
+          [
+            -8.5188168,
+            51.8749476
+          ],
+          [
+            -8.5180705,
+            51.8750896
+          ],
+          [
+            -8.5172801,
+            51.8752617
+          ],
+          [
+            -8.5165039,
+            51.8754322
+          ],
+          [
+            -8.5158989,
+            51.875557
+          ],
+          [
+            -8.5154106,
+            51.8756427
+          ],
+          [
+            -8.5147252,
+            51.8757384
+          ],
+          [
+            -8.5140761,
+            51.8758057
+          ],
+          [
+            -8.5130131,
+            51.8758985
+          ],
+          [
+            -8.5121272,
+            51.8759387
+          ]
+        ]
+      },
+      "id": "way/154684116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155367167",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "year_of_construction": "1992"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4233033,
+            51.880222
+          ],
+          [
+            -8.4240539,
+            51.8802724
+          ],
+          [
+            -8.4247139,
+            51.8803012
+          ],
+          [
+            -8.4255598,
+            51.8803106
+          ],
+          [
+            -8.4265729,
+            51.8802795
+          ],
+          [
+            -8.427228,
+            51.88024
+          ],
+          [
+            -8.4279357,
+            51.8801742
+          ],
+          [
+            -8.4286842,
+            51.880083
+          ],
+          [
+            -8.4296297,
+            51.8799464
+          ],
+          [
+            -8.4310983,
+            51.879716
+          ],
+          [
+            -8.4326115,
+            51.8794807
+          ],
+          [
+            -8.4342975,
+            51.8792182
+          ],
+          [
+            -8.4356783,
+            51.8789913
+          ],
+          [
+            -8.4361575,
+            51.8788905
+          ],
+          [
+            -8.4367389,
+            51.8787472
+          ],
+          [
+            -8.4371489,
+            51.8786268
+          ]
+        ]
+      },
+      "id": "way/155367167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155367171",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "default",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4033861,
+            51.8830744
+          ],
+          [
+            -8.4025228,
+            51.8831725
+          ],
+          [
+            -8.4013434,
+            51.8833139
+          ],
+          [
+            -8.3994954,
+            51.8835442
+          ],
+          [
+            -8.398121,
+            51.8837204
+          ],
+          [
+            -8.3973149,
+            51.8838747
+          ],
+          [
+            -8.396908,
+            51.8839648
+          ],
+          [
+            -8.3965415,
+            51.8840635
+          ],
+          [
+            -8.396114,
+            51.884191
+          ],
+          [
+            -8.3957473,
+            51.8843168
+          ],
+          [
+            -8.3952002,
+            51.8845208
+          ],
+          [
+            -8.3945608,
+            51.8848015
+          ],
+          [
+            -8.3941013,
+            51.8850373
+          ],
+          [
+            -8.3937589,
+            51.8852332
+          ],
+          [
+            -8.3934934,
+            51.8853965
+          ],
+          [
+            -8.3933372,
+            51.8855041
+          ],
+          [
+            -8.3929836,
+            51.8857495
+          ],
+          [
+            -8.3926564,
+            51.8860057
+          ],
+          [
+            -8.3923678,
+            51.8862674
+          ],
+          [
+            -8.3920705,
+            51.8865647
+          ],
+          [
+            -8.3916924,
+            51.8870462
+          ],
+          [
+            -8.3915143,
+            51.8872861
+          ],
+          [
+            -8.3913443,
+            51.8875531
+          ],
+          [
+            -8.3911197,
+            51.8880016
+          ],
+          [
+            -8.3910288,
+            51.8882224
+          ],
+          [
+            -8.3909457,
+            51.8884939
+          ],
+          [
+            -8.3908679,
+            51.8888805
+          ]
+        ]
+      },
+      "id": "way/155367171"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/155367175",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "yes",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "maxweight:signed": "no",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "left",
+        "source": "survey",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4166724,
+            51.8804571
+          ],
+          [
+            -8.4162879,
+            51.880546
+          ],
+          [
+            -8.4158948,
+            51.8806571
+          ],
+          [
+            -8.4155591,
+            51.8807624
+          ]
+        ]
+      },
+      "id": "way/155367175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161868532",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4901146,
+            51.8759397
+          ],
+          [
+            -8.489187,
+            51.8758939
+          ],
+          [
+            -8.488019,
+            51.8758347
+          ],
+          [
+            -8.4865936,
+            51.8757711
+          ],
+          [
+            -8.4854276,
+            51.8757027
+          ],
+          [
+            -8.4848508,
+            51.8756655
+          ],
+          [
+            -8.484283,
+            51.8756186
+          ],
+          [
+            -8.4833774,
+            51.8755295
+          ],
+          [
+            -8.4824697,
+            51.8754279
+          ],
+          [
+            -8.4823794,
+            51.8754044
+          ],
+          [
+            -8.4818744,
+            51.8753508
+          ]
+        ]
+      },
+      "id": "way/161868532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161868533",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4901219,
+            51.8758031
+          ],
+          [
+            -8.4915548,
+            51.8758568
+          ],
+          [
+            -8.4936351,
+            51.8759012
+          ],
+          [
+            -8.4955809,
+            51.8759465
+          ],
+          [
+            -8.4992668,
+            51.8760321
+          ],
+          [
+            -8.5019061,
+            51.8761501
+          ]
+        ]
+      },
+      "id": "way/161868533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161868534",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "destination:ref": "N71;R849",
+        "foot": "no",
+        "highway": "primary_link",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Westbound Parallel Link Road",
+        "name:en": "Westbound Parallel Link Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5196214,
+            51.874586
+          ],
+          [
+            -8.5204368,
+            51.8744943
+          ],
+          [
+            -8.5213085,
+            51.8744082
+          ],
+          [
+            -8.5222016,
+            51.8743383
+          ],
+          [
+            -8.5225064,
+            51.874289
+          ],
+          [
+            -8.5225839,
+            51.8742695
+          ],
+          [
+            -8.5227912,
+            51.8742036
+          ],
+          [
+            -8.5229362,
+            51.8741518
+          ]
+        ]
+      },
+      "id": "way/161868534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166483264",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4968374,
+            51.876072
+          ],
+          [
+            -8.4956161,
+            51.8760537
+          ],
+          [
+            -8.4936524,
+            51.8760138
+          ],
+          [
+            -8.4915575,
+            51.8759961
+          ],
+          [
+            -8.4901146,
+            51.8759397
+          ]
+        ]
+      },
+      "id": "way/166483264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/166650231",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "maxweight:signed": "no",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.415291,
+            51.880662
+          ],
+          [
+            -8.4156821,
+            51.8805309
+          ],
+          [
+            -8.4160419,
+            51.880433
+          ]
+        ]
+      },
+      "id": "way/166650231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/169339158",
+        "bicycle": "no",
+        "change:lanes": "no|no",
+        "cutting": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "incline": "down",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "80",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "website": "https://jacklynchtunnel.ie/",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3888256,
+            51.9031978
+          ],
+          [
+            -8.3890668,
+            51.9030914
+          ],
+          [
+            -8.3893302,
+            51.9029508
+          ],
+          [
+            -8.3898015,
+            51.9025945
+          ],
+          [
+            -8.3902706,
+            51.9022156
+          ]
+        ]
+      },
+      "id": "way/169339158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173920473",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "4",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4499431,
+            51.874112
+          ],
+          [
+            -8.4492678,
+            51.8742752
+          ],
+          [
+            -8.4486847,
+            51.8744379
+          ],
+          [
+            -8.4478785,
+            51.8747077
+          ],
+          [
+            -8.447025,
+            51.8750264
+          ],
+          [
+            -8.4462391,
+            51.875326
+          ],
+          [
+            -8.445895,
+            51.8754585
+          ]
+        ]
+      },
+      "id": "way/173920473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173920474",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4455281,
+            51.8754244
+          ],
+          [
+            -8.4470256,
+            51.8748406
+          ],
+          [
+            -8.4479708,
+            51.8744818
+          ],
+          [
+            -8.4488575,
+            51.8741812
+          ],
+          [
+            -8.4495694,
+            51.873966
+          ],
+          [
+            -8.450223,
+            51.8738207
+          ],
+          [
+            -8.4508236,
+            51.87371
+          ],
+          [
+            -8.4515747,
+            51.8736227
+          ],
+          [
+            -8.452147,
+            51.8735866
+          ],
+          [
+            -8.4527282,
+            51.8735781
+          ],
+          [
+            -8.4539556,
+            51.8736093
+          ],
+          [
+            -8.4554852,
+            51.8736888
+          ],
+          [
+            -8.4578077,
+            51.8737957
+          ],
+          [
+            -8.4604422,
+            51.8739238
+          ]
+        ]
+      },
+      "id": "way/173920474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173920478",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.445895,
+            51.8754585
+          ],
+          [
+            -8.4413385,
+            51.8771516
+          ]
+        ]
+      },
+      "id": "way/173920478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/177341567",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "interpretation based on pulished brochure and visual survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.528898,
+            51.8737546
+          ],
+          [
+            -8.5273356,
+            51.8739817
+          ],
+          [
+            -8.5259345,
+            51.8741727
+          ],
+          [
+            -8.5251604,
+            51.8742699
+          ],
+          [
+            -8.5243835,
+            51.8743584
+          ]
+        ]
+      },
+      "id": "way/177341567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/231085411",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5297537,
+            51.8734721
+          ],
+          [
+            -8.5306799,
+            51.8733048
+          ],
+          [
+            -8.5310012,
+            51.8732381
+          ],
+          [
+            -8.5313031,
+            51.8731764
+          ],
+          [
+            -8.5318661,
+            51.8730683
+          ],
+          [
+            -8.5324693,
+            51.8729588
+          ],
+          [
+            -8.5330738,
+            51.8728545
+          ],
+          [
+            -8.5333525,
+            51.8728071
+          ],
+          [
+            -8.5336353,
+            51.8727612
+          ],
+          [
+            -8.5343946,
+            51.8726552
+          ],
+          [
+            -8.535203,
+            51.8725569
+          ],
+          [
+            -8.5357399,
+            51.872497
+          ],
+          [
+            -8.5362813,
+            51.8724415
+          ],
+          [
+            -8.5372744,
+            51.8723664
+          ]
+        ]
+      },
+      "id": "way/231085411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233745984",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4818744,
+            51.8753508
+          ],
+          [
+            -8.4801798,
+            51.8750447
+          ],
+          [
+            -8.4789253,
+            51.8747896
+          ],
+          [
+            -8.4776223,
+            51.8745058
+          ],
+          [
+            -8.4760666,
+            51.874154
+          ],
+          [
+            -8.4748794,
+            51.8739073
+          ],
+          [
+            -8.4742923,
+            51.8738069
+          ],
+          [
+            -8.4736547,
+            51.8737205
+          ],
+          [
+            -8.4723531,
+            51.8736001
+          ],
+          [
+            -8.471048,
+            51.8735573
+          ]
+        ]
+      },
+      "id": "way/233745984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/235917504",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "120",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5499369,
+            51.873822
+          ],
+          [
+            -8.5494032,
+            51.8736344
+          ],
+          [
+            -8.5485383,
+            51.8733868
+          ],
+          [
+            -8.5474898,
+            51.8731257
+          ],
+          [
+            -8.5462064,
+            51.8728851
+          ],
+          [
+            -8.5452181,
+            51.8727431
+          ],
+          [
+            -8.5447181,
+            51.8726792
+          ],
+          [
+            -8.5441249,
+            51.8726184
+          ],
+          [
+            -8.5430331,
+            51.8725299
+          ],
+          [
+            -8.5425388,
+            51.8724968
+          ],
+          [
+            -8.5420145,
+            51.8724681
+          ],
+          [
+            -8.5411165,
+            51.8724356
+          ],
+          [
+            -8.5403675,
+            51.8724296
+          ],
+          [
+            -8.5396573,
+            51.8724487
+          ],
+          [
+            -8.5383452,
+            51.8724599
+          ]
+        ]
+      },
+      "id": "way/235917504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/236028139",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4604422,
+            51.8739238
+          ],
+          [
+            -8.4616181,
+            51.8739548
+          ],
+          [
+            -8.463648,
+            51.873931
+          ],
+          [
+            -8.4651276,
+            51.8738665
+          ],
+          [
+            -8.4659697,
+            51.8738044
+          ],
+          [
+            -8.4668869,
+            51.8737151
+          ],
+          [
+            -8.4685352,
+            51.8735477
+          ],
+          [
+            -8.46913,
+            51.8734957
+          ]
+        ]
+      },
+      "id": "way/236028139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440120536",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "default",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "turn:lanes": "slight_left|through|through",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4155591,
+            51.8807624
+          ],
+          [
+            -8.4142778,
+            51.8812256
+          ],
+          [
+            -8.4139187,
+            51.8813505
+          ],
+          [
+            -8.4135188,
+            51.881474
+          ],
+          [
+            -8.4130028,
+            51.8816212
+          ],
+          [
+            -8.4124284,
+            51.8817647
+          ],
+          [
+            -8.4119042,
+            51.8818887
+          ],
+          [
+            -8.4113931,
+            51.8819896
+          ],
+          [
+            -8.4107168,
+            51.8821036
+          ],
+          [
+            -8.4098417,
+            51.8822202
+          ],
+          [
+            -8.4083452,
+            51.8824127
+          ],
+          [
+            -8.4069511,
+            51.8825916
+          ],
+          [
+            -8.4033861,
+            51.8830744
+          ]
+        ]
+      },
+      "id": "way/440120536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440120541",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "foot": "no",
+        "highway": "trunk_link",
+        "lanes": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4033861,
+            51.8830744
+          ],
+          [
+            -8.4026477,
+            51.8832117
+          ]
+        ]
+      },
+      "id": "way/440120541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496470367",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "destination": "n40 eastbound;cork city centre;wilton;hospital;university college cork",
+        "destination:ref": "N40;R641",
+        "foot": "no",
+        "highway": "secondary_link",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Eastbound Parallel Link Road",
+        "name:en": "Eastbound Parallel Link Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5230416,
+            51.8747775
+          ],
+          [
+            -8.5227798,
+            51.8747412
+          ],
+          [
+            -8.5226227,
+            51.8747209
+          ],
+          [
+            -8.5224692,
+            51.8747156
+          ],
+          [
+            -8.5222668,
+            51.8747196
+          ],
+          [
+            -8.5220585,
+            51.8747358
+          ],
+          [
+            -8.5214485,
+            51.8747853
+          ],
+          [
+            -8.52074,
+            51.874844
+          ],
+          [
+            -8.5198002,
+            51.8749538
+          ]
+        ]
+      },
+      "id": "way/496470367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/587281509",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "default",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4034039,
+            51.8829318
+          ],
+          [
+            -8.4049848,
+            51.8827302
+          ],
+          [
+            -8.4082488,
+            51.8823024
+          ],
+          [
+            -8.4100015,
+            51.8820769
+          ],
+          [
+            -8.4107094,
+            51.8819818
+          ],
+          [
+            -8.4111812,
+            51.8819021
+          ],
+          [
+            -8.4117629,
+            51.8817893
+          ],
+          [
+            -8.4123528,
+            51.8816563
+          ],
+          [
+            -8.4128883,
+            51.8815068
+          ],
+          [
+            -8.4134262,
+            51.8813372
+          ],
+          [
+            -8.4137492,
+            51.8812283
+          ],
+          [
+            -8.4137933,
+            51.8812118
+          ],
+          [
+            -8.4139298,
+            51.8811639
+          ],
+          [
+            -8.4143276,
+            51.8810295
+          ],
+          [
+            -8.415291,
+            51.880662
+          ]
+        ]
+      },
+      "id": "way/587281509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/875659596",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "80",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3926565,
+            51.8934343
+          ],
+          [
+            -8.39286,
+            51.8937177
+          ],
+          [
+            -8.3930703,
+            51.8940757
+          ],
+          [
+            -8.3932559,
+            51.8944379
+          ]
+        ]
+      },
+      "id": "way/875659596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/876250958",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "80",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3931376,
+            51.8945729
+          ],
+          [
+            -8.3928958,
+            51.894105
+          ],
+          [
+            -8.3927524,
+            51.8938811
+          ],
+          [
+            -8.3924566,
+            51.8934471
+          ]
+        ]
+      },
+      "id": "way/876250958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/923758038",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "yes",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "No entry",
+        "logainm:url": "No entry",
+        "maxspeed": "120",
+        "name": "Ballincollig Bypass",
+        "name:en": "Ballincollig Bypass",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5661153,
+            51.8756977
+          ],
+          [
+            -8.5674706,
+            51.8754666
+          ],
+          [
+            -8.5686636,
+            51.8752547
+          ],
+          [
+            -8.5698754,
+            51.8750412
+          ],
+          [
+            -8.5710027,
+            51.8748417
+          ],
+          [
+            -8.5721496,
+            51.8746383
+          ],
+          [
+            -8.5734485,
+            51.8744059
+          ],
+          [
+            -8.5739833,
+            51.8743136
+          ],
+          [
+            -8.5745373,
+            51.8742153
+          ],
+          [
+            -8.5758509,
+            51.8739809
+          ],
+          [
+            -8.5764989,
+            51.8738664
+          ],
+          [
+            -8.577177,
+            51.8737421
+          ]
+        ]
+      },
+      "id": "way/923758038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/927149776",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "destination:ref": "N40;R641",
+        "foot": "no",
+        "highway": "secondary_link",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Eastbound Parallel Link Road",
+        "name:en": "Eastbound Parallel Link Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5198002,
+            51.8749538
+          ],
+          [
+            -8.5191828,
+            51.875041
+          ],
+          [
+            -8.5183445,
+            51.8751764
+          ],
+          [
+            -8.5174103,
+            51.8753575
+          ],
+          [
+            -8.5162489,
+            51.8756235
+          ]
+        ]
+      },
+      "id": "way/927149776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/927149779",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "destination": "skibbereen;bandon;bishopstown",
+        "destination:ref": "N71;R849",
+        "foot": "no",
+        "highway": "primary_link",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "60",
+        "name": "Westbound Parallel Link Road",
+        "name:en": "Westbound Parallel Link Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5161313,
+            51.8752785
+          ],
+          [
+            -8.5176616,
+            51.874954
+          ],
+          [
+            -8.5187313,
+            51.8747279
+          ],
+          [
+            -8.5196214,
+            51.874586
+          ]
+        ]
+      },
+      "id": "way/927149779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/927149781",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5121272,
+            51.8759387
+          ],
+          [
+            -8.5117946,
+            51.8759433
+          ],
+          [
+            -8.5109849,
+            51.875938
+          ],
+          [
+            -8.5101241,
+            51.8759598
+          ],
+          [
+            -8.5094661,
+            51.8759856
+          ],
+          [
+            -8.5084416,
+            51.8760734
+          ],
+          [
+            -8.5075745,
+            51.8761617
+          ],
+          [
+            -8.5067381,
+            51.8762329
+          ]
+        ]
+      },
+      "id": "way/927149781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/954846389",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "default",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4164027,
+            51.8803486
+          ],
+          [
+            -8.4173979,
+            51.8801442
+          ],
+          [
+            -8.4184273,
+            51.8800141
+          ],
+          [
+            -8.4193703,
+            51.8799623
+          ],
+          [
+            -8.4202022,
+            51.8799576
+          ],
+          [
+            -8.4210764,
+            51.8799936
+          ],
+          [
+            -8.4219264,
+            51.880077
+          ],
+          [
+            -8.4233033,
+            51.880222
+          ]
+        ]
+      },
+      "id": "way/954846389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/954846390",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "year_of_construction": "1992"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4372363,
+            51.8786944
+          ],
+          [
+            -8.4368267,
+            51.8788176
+          ],
+          [
+            -8.4362623,
+            51.878959
+          ],
+          [
+            -8.4357906,
+            51.8790618
+          ],
+          [
+            -8.4345383,
+            51.8792778
+          ],
+          [
+            -8.4326056,
+            51.8796011
+          ],
+          [
+            -8.4311837,
+            51.8798321
+          ],
+          [
+            -8.4295585,
+            51.8800904
+          ],
+          [
+            -8.4287651,
+            51.8802144
+          ],
+          [
+            -8.4281951,
+            51.8802878
+          ]
+        ]
+      },
+      "id": "way/954846390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/955372464",
+        "bicycle": "no",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "incline": "down",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "4.65",
+        "maxspeed": "60",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "merge_to_right|"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3867017,
+            51.9044706
+          ],
+          [
+            -8.3867453,
+            51.9044027
+          ],
+          [
+            -8.3868109,
+            51.9042983
+          ],
+          [
+            -8.386918,
+            51.9041564
+          ],
+          [
+            -8.3870531,
+            51.9039929
+          ],
+          [
+            -8.3871297,
+            51.9039235
+          ],
+          [
+            -8.3872043,
+            51.9038692
+          ],
+          [
+            -8.3873049,
+            51.903796
+          ],
+          [
+            -8.3876416,
+            51.903629
+          ],
+          [
+            -8.3878449,
+            51.903547
+          ]
+        ]
+      },
+      "id": "way/955372464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1116982795",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "maxweight:signed": "no",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4160419,
+            51.880433
+          ],
+          [
+            -8.4164027,
+            51.8803486
+          ]
+        ]
+      },
+      "id": "way/1116982795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1116982796",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "default",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4196986,
+            51.8801026
+          ],
+          [
+            -8.4191493,
+            51.8801325
+          ],
+          [
+            -8.4186812,
+            51.8801627
+          ],
+          [
+            -8.4182642,
+            51.8802028
+          ],
+          [
+            -8.4177864,
+            51.880257
+          ],
+          [
+            -8.4174035,
+            51.8803141
+          ],
+          [
+            -8.4166724,
+            51.8804571
+          ]
+        ]
+      },
+      "id": "way/1116982796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1116983107",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4281951,
+            51.8802878
+          ],
+          [
+            -8.427174,
+            51.8803837
+          ],
+          [
+            -8.4262847,
+            51.8804349
+          ]
+        ]
+      },
+      "id": "way/1116983107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1188439251",
+        "bicycle": "no",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "incline": "down",
+        "lanes": "1",
+        "lit": "yes",
+        "maxheight": "4.65",
+        "maxspeed": "60",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3878449,
+            51.903547
+          ],
+          [
+            -8.3884495,
+            51.9033513
+          ],
+          [
+            -8.3886644,
+            51.9032644
+          ],
+          [
+            -8.3888256,
+            51.9031978
+          ]
+        ]
+      },
+      "id": "way/1188439251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1188439850",
+        "bicycle": "no",
+        "cycleway": "no",
+        "destination:ref": "N8;N25",
+        "foot": "no",
+        "highway": "trunk_link",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "60",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3888959,
+            51.9036252
+          ],
+          [
+            -8.3887861,
+            51.9038166
+          ]
+        ]
+      },
+      "id": "way/1188439850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1208843949",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "3",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5067074,
+            51.8761235
+          ],
+          [
+            -8.5071256,
+            51.8760908
+          ],
+          [
+            -8.5076342,
+            51.8760424
+          ],
+          [
+            -8.5086475,
+            51.8759518
+          ],
+          [
+            -8.5094333,
+            51.8758838
+          ],
+          [
+            -8.510172,
+            51.8758517
+          ],
+          [
+            -8.5109903,
+            51.8758378
+          ],
+          [
+            -8.5118103,
+            51.8758459
+          ]
+        ]
+      },
+      "id": "way/1208843949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1208843950",
+        "bicycle": "yes",
+        "cycleway": "no",
+        "expressway": "yes",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "GPS trace",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.5118103,
+            51.8758459
+          ],
+          [
+            -8.5126794,
+            51.8758251
+          ],
+          [
+            -8.5133226,
+            51.8757898
+          ]
+        ]
+      },
+      "id": "way/1208843950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1208843955",
+        "bicycle": "yes",
+        "bridge": "yes",
+        "cycleway": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxspeed": "100",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "source": "survey",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.4410712,
+            51.8772556
+          ],
+          [
+            -8.4409544,
+            51.877301
+          ]
+        ]
+      },
+      "id": "way/1208843955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1210016320",
+        "bicycle": "no",
+        "cutting": "yes",
+        "cycleway": "no",
+        "foot": "no",
+        "highway": "trunk",
+        "horse": "no",
+        "incline": "up",
+        "lanes": "2",
+        "lit": "yes",
+        "logainm:ref": "1426670",
+        "logainm:url": "https://www.logainm.ie/1426670.aspx",
+        "maxheight": "4.65",
+        "maxspeed": "60",
+        "name": "South Ring Road",
+        "name:en": "South Ring Road",
+        "oneway": "yes",
+        "ref": "N40",
+        "sidewalk": "no",
+        "surface": "asphalt",
+        "turn:lanes": "slight_left|through|through;slight_right",
+        "website": "https://jacklynchtunnel.ie/",
+        "year_of_construction": "1999"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8.3897025,
+            51.9028625
+          ],
+          [
+            -8.3892567,
+            51.9032047
+          ]
+        ]
+      },
+      "id": "way/1210016320"
+    }
+  ]
+}

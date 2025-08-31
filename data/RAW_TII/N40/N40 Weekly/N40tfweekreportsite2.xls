@@ -1,0 +1,3297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Weekly Volume Report NRA 000000001405 2024-07-01 to 2025-08-20</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<style type="text/css">
+/*<![CDATA[*/
+.key td { white-space: nowrap; }
+.key td.A,.key td.W,.key td.S,.key td.C,.key td.H { white-space: pre; }
+td.A { background-color: #DD9CB3; } /* Salmon */
+td.W { background-color: #80F7B5; } /* SeaGreen */
+td.S { background-color: #FFFF80; } /* Yellow */
+td.C { background-color: #A6CAF0; } /* Blue */
+td.H { background-color: #CCCCCC; } /* Weekend grey */
+td.WeA { background-color: #99586F; }
+td.WeW { background-color: #3CB371; }
+td.WeS { background-color: #CCCC40; }
+td.WeC { background-color: #6286AC; }
+td.WeH { background-color: #CCCCCC; }
+td.We,th.We { background-color: #CCCCCC; }
+td.P { border: 1px solid #808080; } /* Patched - border */
+td.TLI { color:#A0A0A0; } /* Too Little Information - grey text */
+td.NOI { color:red; } /* Too Little Information - red text */
+.grid td, .grid th { border:none; } /* No borders by default */
+.grid .TBL td, .grid .TBL { border-left:2px solid #000000; } /* Thick left border for intermediate totals */
+.grid .TBR td, .grid .TBR { border-right:2px solid #000000; } /* Thick right border for intermediate totals */
+.grid .TBT td, .grid .TBT { border-top:2px solid #000000; } /* Thick top border for intermediate totals */
+.grid .TBB td, .grid .TBB { border-bottom:2px solid #000000; } /* Thick bottom border for intermediate totals */
+.grid .BL td, .grid .BL { border-left:1px solid #000000; } /* Thin left border for intermediate totals */
+.grid .BR td, .grid .BR { border-right:1px solid #000000; } /* Thin right border for intermediate totals */
+.grid .BT td, .grid .BT { border-top:1px solid #000000; } /* Thin top border for intermediate totals */
+.grid .BB td, .grid .BB { border-bottom:1px solid #000000; } /* Thin bottom border for intermediate totals */
+.grid .TBP th, .grid .TBP { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; } /* Top and bottom padding */
+.grid td.CT { text-align: center; } /* Text cell: center-aligned */
+.grid .BR_BT { border-right:1px solid #000000; border-top:1px solid #000000; }
+.grid .BL_BR_BT { border-left:1px solid #000000; border-right:1px solid #000000; border-top:1px solid #000000; }
+.grid .BR_TBT { border-right:1px solid #000000; border-top:2px solid #000000; }
+.grid .CT_BT { text-align: center; border-top:1px solid #000000; }
+.grid .CT_TBT { text-align: center; border-top:2px solid #000000; }
+.grid .TBP_BR_TBT { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; border-right:1px solid #000000; border-top:2px solid #000000; }
+.grid .TBP_TBT { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; border-top:2px solid #000000; }
+.grid .TBP_BR { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; border-right:1px solid #000000; }
+.grid .TBP_BT_BB { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; border-top:1px solid #000000; border-bottom:1px solid #000000; }
+.grid .TBP_BT_BB_BR { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; border-top:1px solid #000000; border-bottom:1px solid #000000; border-right:1px solid #000000; }
+.grid .L_BR_BT { text-align: left; border-right:1px solid #000000; border-top:1px solid #000000; }
+.grid .BL_BT { border-left:1px solid #000000; border-top:1px solid #000000; }
+.grid .L_BR { text-align: left; border-right:1px solid #000000; }
+.grid .L_TBP_BT_BR { text-align: left; padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; border-top:1px solid #000000; border-right:1px solid #000000; }
+.grid .TBP_BT { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; border-top:1px solid #000000; }
+.grid .TBP_BT_BR { padding-top: 1.5ex; padding-bottom: 1.5ex; mso-ignore: padding; border-top:1px solid #000000; border-right:1px solid #000000; }
+.grid td.It_P { font-style:italic; border: 1px solid #808080; } /* Biased - italic, Patched - border */
+.grid td.We_It { background-color: #CCCCCC !important; -webkit-print-color-adjust: exact; font-style:italic; }
+.grid td.We_P { background-color: #CCCCCC !important; -webkit-print-color-adjust: exact; border: 1px solid #808080; }
+.grid td.We_It_P { background-color: #CCCCCC !important; -webkit-print-color-adjust: exact; font-style:italic; border: 1px solid #808080; }
+th { mso-number-format: \@; } /* So dates in headers are interpreted as strings */
+th.XlDM { mso-number-format:"d mmm"; } /* Force short dates */
+th.WeXlDM { background-color: #CCCCCC; mso-number-format:"d mmm"; } /* Force short dates */
+/*]]>*/
+</style>
+</head>
+<body class="fixed">
+<div id="wrapper">
+<b>Weekly Volume Report NRA 000000001405 2024-07-01 to 2025-08-20</b> <div id="container">
+  <div id="content">
+<div class="panel panel-default">  <div class="panel-heading"><table>
+  <tr><td>Site Name</td><td style='mso-number-format:"\@";' colspan=3>TMU N40 002.5 E</td></tr>
+  <tr><td>Site ID</td><td style='mso-number-format:"\@";' colspan=3>000000001405</td></tr>
+  <tr><td>Grid</td><td style='mso-number-format:"\@";' colspan=3>163246069030</td></tr>
+  <tr><td>Description</td><td colspan=3>N40 Between Jn 2 Curraheen and Jn 3 Wilton, Cork</td></tr>
+</table>
+</div>  <div class="panel-body">   <div id="selector">
+    <ul id="dropdownmenu">
+<table><tr><td>Lanes</td><td colspan=3>Each Lane</td></tr></table>
+<table><tr><td>Time Period</td><td colspan=3>1 hour
+</td></tr></table>
+<table><tr><td>Class</td><td colspan=3>Any</td></tr></table>
+<table><tr><td>Exclude data:</td><td colspan=3>None</td></tr></table>
+    </ul>
+   </div> <!--selector-->
+<table class="grid" id="gridTable" BORDER=1>
+ <tr><th style="text-align:left; font-size:110%;" colspan=11>All directions</th></tr>
+ <tr>
+  <th></th>
+  <th>&lt;&minus;&minus;</th>
+  <th colspan=5>Average of each</th>
+  <th>&minus;&minus;&gt;</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
+  <th>Sun</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td class="H_H">227</td>
+  <td class="S">192</td>
+  <td class="H_S">183</td>
+  <td class="H_S">207</td>
+  <td class="S">250</td>
+  <td class="We">369</td>
+  <td class="We">382</td>
+  <td>212</td>
+  <td>259</td>
+  <td>97004</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
+  <td class="H_H">121</td>
+  <td class="S">95</td>
+  <td class="H_S">105</td>
+  <td class="H_S">106</td>
+  <td class="S">126</td>
+  <td class="We">192</td>
+  <td class="We">231</td>
+  <td>111</td>
+  <td>139</td>
+  <td>52065</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
+  <td class="H_H">97</td>
+  <td class="S">77</td>
+  <td class="H_S">83</td>
+  <td class="H_S">88</td>
+  <td class="S">109</td>
+  <td class="We">142</td>
+  <td class="We">150</td>
+  <td>91</td>
+  <td>107</td>
+  <td>40028</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
+  <td class="H_H">121</td>
+  <td class="S">112</td>
+  <td class="H_S">115</td>
+  <td class="H_S">120</td>
+  <td class="S">124</td>
+  <td class="We">163</td>
+  <td class="We">129</td>
+  <td>118</td>
+  <td>126</td>
+  <td>47379</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td class="H_H">190</td>
+  <td class="S">199</td>
+  <td class="H_S">190</td>
+  <td class="H_S">199</td>
+  <td class="S">203</td>
+  <td class="We">167</td>
+  <td class="We">129</td>
+  <td>196</td>
+  <td>182</td>
+  <td>68629</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+  <td class="H_H">449</td>
+  <td class="S">524</td>
+  <td class="H_S">506</td>
+  <td class="H_S">500</td>
+  <td class="S">480</td>
+  <td class="We">271</td>
+  <td class="We">181</td>
+  <td>492</td>
+  <td>416</td>
+  <td>156813</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
+  <td class="H_H">1514</td>
+  <td class="S">1810</td>
+  <td class="H_S">1801</td>
+  <td class="H_S">1766</td>
+  <td class="S">1623</td>
+  <td class="We">608</td>
+  <td class="We">377</td>
+  <td>1703</td>
+  <td>1357</td>
+  <td>511925</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
+  <td class="H_H">3557</td>
+  <td class="S">4309</td>
+  <td class="H_S">4254</td>
+  <td class="H_S">4146</td>
+  <td class="S">3638</td>
+  <td class="We">1135</td>
+  <td class="We">670</td>
+  <td>3981</td>
+  <td>3101</td>
+  <td>1170506</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
+  <td class="H_H">3859</td>
+  <td class="S">4651</td>
+  <td class="H_S">4604</td>
+  <td class="H_S">4504</td>
+  <td class="S">3986</td>
+  <td class="We">1699</td>
+  <td class="We">868</td>
+  <td>4321</td>
+  <td>3453</td>
+  <td>1302638</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td class="H_H">3038</td>
+  <td class="S">3514</td>
+  <td class="H_S">3527</td>
+  <td class="H_S">3527</td>
+  <td class="S">3240</td>
+  <td class="We">2548</td>
+  <td class="We">1477</td>
+  <td>3370</td>
+  <td>2982</td>
+  <td>1126495</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td class="H_H">2759</td>
+  <td class="S">2977</td>
+  <td class="H_S">2991</td>
+  <td class="H_S">3051</td>
+  <td class="S">3119</td>
+  <td class="We">3174</td>
+  <td class="We">2151</td>
+  <td>2979</td>
+  <td>2889</td>
+  <td>1089705</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+  <td class="H_H">2974</td>
+  <td class="S">3037</td>
+  <td class="H_S">3071</td>
+  <td class="H_S">3166</td>
+  <td class="S">3426</td>
+  <td class="We">3670</td>
+  <td class="We">2805</td>
+  <td>3134</td>
+  <td>3164</td>
+  <td>1192635</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td class="H_H">3251</td>
+  <td class="S">3261</td>
+  <td class="H_S">3352</td>
+  <td class="H_S">3409</td>
+  <td class="S">3844</td>
+  <td class="We">3965</td>
+  <td class="We">3369</td>
+  <td>3423</td>
+  <td>3493</td>
+  <td>1316342</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td class="H_H">3450</td>
+  <td class="S">3459</td>
+  <td class="H_S">3629</td>
+  <td class="H_S">3604</td>
+  <td class="S">4100</td>
+  <td class="We">3959</td>
+  <td class="We">3693</td>
+  <td>3648</td>
+  <td>3699</td>
+  <td>1394236</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+  <td class="H_H">3582</td>
+  <td class="S">3591</td>
+  <td class="H_S">3684</td>
+  <td class="H_S">3744</td>
+  <td class="S">4315</td>
+  <td class="We">3756</td>
+  <td class="We">3561</td>
+  <td>3783</td>
+  <td>3747</td>
+  <td>1412954</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td class="H_H">4080</td>
+  <td class="S">4236</td>
+  <td class="H_S">4246</td>
+  <td class="H_S">4350</td>
+  <td class="S">4727</td>
+  <td class="We">3543</td>
+  <td class="We">3338</td>
+  <td>4328</td>
+  <td>4074</td>
+  <td>1537467</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td class="H_H">4790</td>
+  <td class="S">5147</td>
+  <td class="H_S">5067</td>
+  <td class="H_S">5121</td>
+  <td class="S">4703</td>
+  <td class="We">3349</td>
+  <td class="We">3186</td>
+  <td>4966</td>
+  <td>4481</td>
+  <td>1692137</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td class="H_H">4586</td>
+  <td class="S">5010</td>
+  <td class="H_S">4986</td>
+  <td class="H_S">4956</td>
+  <td class="S">4184</td>
+  <td class="We">3015</td>
+  <td class="We">2898</td>
+  <td>4745</td>
+  <td>4234</td>
+  <td>1599403</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td class="H_H">3249</td>
+  <td class="S">3631</td>
+  <td class="H_S">3718</td>
+  <td class="H_S">3760</td>
+  <td>3432</td>
+  <td class="We">2622</td>
+  <td class="We">2626</td>
+  <td>3559</td>
+  <td>3292</td>
+  <td>1242523</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td class="H_H">2358</td>
+  <td class="S">2457</td>
+  <td class="H_S">2617</td>
+  <td class="H_S">2694</td>
+  <td>2671</td>
+  <td class="We">2156</td>
+  <td class="We">2128</td>
+  <td>2560</td>
+  <td>2440</td>
+  <td>918089</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td class="H_H">1670</td>
+  <td class="S">1759</td>
+  <td class="H_S">1839</td>
+  <td class="H_S">1946</td>
+  <td>1798</td>
+  <td class="We">1509</td>
+  <td class="We">1552</td>
+  <td>1803</td>
+  <td>1725</td>
+  <td>648875</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
+  <td class="H_H">1108</td>
+  <td class="S">1209</td>
+  <td class="H_S">1288</td>
+  <td class="H_S">1325</td>
+  <td>1358</td>
+  <td class="We">1049</td>
+  <td class="We">1029</td>
+  <td>1257</td>
+  <td>1195</td>
+  <td>448263</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
+  <td class="H_H">631</td>
+  <td class="S">683</td>
+  <td class="H_S">743</td>
+  <td class="H_S">811</td>
+  <td>946</td>
+  <td class="We">899</td>
+  <td class="We">657</td>
+  <td>762</td>
+  <td>767</td>
+  <td>287438</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
+  <td class="H_H">358</td>
+
+  <td class="S">364</td>
+  <td class="H_S">413</td>
+  <td class="H_S">474</td>
+  <td>612</td>
+  <td class="We">612</td>
+  <td class="We">418</td>
+  <td>444</td>
+  <td>464</td>
+  <td>173959</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td class="H">43174</td>
+  <td>46825</td>
+  <td class="H">47130</td>
+  <td class="H">47337</td>
+  <td>46714</td>
+  <td class="We">36436</td>
+  <td class="We">30642</td>
+  <td>46237</td>
+  <td>42609</td>
+  <td>16077041</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td class="H">49823</td>
+  <td>54059</td>
+  <td class="H">54675</td>
+  <td class="H">55068</td>
+  <td>54164</td>
+  <td class="We">41756</td>
+  <td class="We">35727</td>
+  <td>53559</td>
+  <td>49325</td>
+  <td>18604193</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td class="H">50812</td>
+  <td>55107</td>
+  <td class="H">55832</td>
+  <td class="H">56353</td>
+  <td>55722</td>
+  <td class="We">43267</td>
+  <td class="We">36802</td>
+  <td>54765</td>
+  <td>50556</td>
+  <td>19065590</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td class="H">52017</td>
+  <td>56306</td>
+  <td class="H">57014</td>
+  <td class="H">57573</td>
+  <td>57014</td>
+  <td class="We">44571</td>
+  <td class="We">38003</td>
+  <td>55985</td>
+  <td>51785</td>
+  <td>19527508</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="We">11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td>08:00:00</td>
+  <td>08:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">3859</td>
+  <td>4651</td>
+  <td class="H">4604</td>
+  <td class="H">4504</td>
+  <td>3986</td>
+  <td class="We">3670</td>
+  <td class="We">2805</td>
+  <td>4321</td>
+  <td>3453</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td class="H">16:00:00</td>
+  <td>16:00:00</td>
+  <td class="H">16:00:00</td>
+  <td class="H">16:00:00</td>
+  <td>15:00:00</td>
+  <td class="We">12:00:00</td>
+  <td class="We">13:00:00</td>
+  <td>16:00:00</td>
+  <td>16:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">4790</td>
+  <td>5147</td>
+  <td class="H">5067</td>
+  <td class="H">5121</td>
+  <td>4727</td>
+  <td class="We">3965</td>
+  <td class="We">3693</td>
+  <td>4966</td>
+  <td>4481</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=11>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=11>All Eastbound</th></tr>
+ <tr>
+  <th></th>
+  <th>&lt;&minus;&minus;</th>
+  <th colspan=5>Average of each</th>
+  <th>&minus;&minus;&gt;</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
+  <th>Sun</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td class="H_H">80</td>
+  <td class="S">63</td>
+  <td class="H_S">66</td>
+  <td class="H_S">75</td>
+  <td class="S">90</td>
+  <td class="We">133</td>
+  <td class="We">156</td>
+  <td>75</td>
+  <td>95</td>
+  <td>35523</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
+  <td class="H_H">49</td>
+  <td class="S">38</td>
+  <td class="H_S">42</td>
+  <td class="H_S">42</td>
+  <td class="S">50</td>
+  <td class="We">75</td>
+  <td class="We">93</td>
+  <td>44</td>
+  <td>55</td>
+  <td>20685</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
+  <td class="H_H">45</td>
+  <td class="S">37</td>
+  <td class="H_S">40</td>
+  <td class="H_S">42</td>
+  <td class="S">49</td>
+  <td class="We">61</td>
+  <td class="We">63</td>
+  <td>43</td>
+  <td>48</td>
+  <td>18119</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
+  <td class="H_H">68</td>
+  <td class="S">67</td>
+  <td class="H_S">68</td>
+  <td class="H_S">70</td>
+  <td class="S">70</td>
+  <td class="We">86</td>
+  <td class="We">68</td>
+  <td>69</td>
+  <td>71</td>
+  <td>26677</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td class="H_H">107</td>
+  <td class="S">113</td>
+  <td class="H_S">103</td>
+  <td class="H_S">110</td>
+  <td class="S">113</td>
+  <td class="We">90</td>
+  <td class="We">74</td>
+  <td>109</td>
+  <td>101</td>
+  <td>38172</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+  <td class="H_H">284</td>
+  <td class="S">344</td>
+  <td class="H_S">329</td>
+  <td class="H_S">322</td>
+  <td class="S">309</td>
+  <td class="We">158</td>
+  <td class="We">117</td>
+  <td>318</td>
+  <td>266</td>
+  <td>100339</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
+  <td class="H_H">1037</td>
+  <td class="S">1239</td>
+  <td class="H_S">1232</td>
+  <td class="H_S">1210</td>
+  <td class="S">1088</td>
+  <td class="We">360</td>
+  <td class="We">235</td>
+  <td>1161</td>
+  <td>914</td>
+  <td>345005</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
+  <td class="H_H">2156</td>
+  <td class="S">2648</td>
+  <td class="H_S">2606</td>
+  <td class="H_S">2538</td>
+  <td class="S">2196</td>
+  <td class="We">596</td>
+  <td class="We">352</td>
+  <td>2429</td>
+  <td>1870</td>
+  <td>706046</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
+  <td class="H_H">2228</td>
+  <td class="S">2700</td>
+  <td class="H_S">2673</td>
+  <td class="H_S">2606</td>
+  <td class="S">2290</td>
+  <td class="We">937</td>
+  <td class="We">452</td>
+  <td>2499</td>
+  <td>1984</td>
+  <td>748482</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td class="H_H">1693</td>
+  <td class="S">1933</td>
+  <td class="H_S">1902</td>
+  <td class="H_S">1978</td>
+  <td class="S">1790</td>
+  <td class="We">1377</td>
+  <td class="We">784</td>
+  <td>1859</td>
+  <td>1637</td>
+  <td>618426</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td class="H_H">1473</td>
+  <td class="S">1573</td>
+  <td class="H_S">1571</td>
+  <td class="H_S">1615</td>
+  <td class="S">1637</td>
+  <td class="We">1663</td>
+  <td class="We">1154</td>
+  <td>1574</td>
+  <td>1526</td>
+  <td>575757</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+  <td class="H_H">1531</td>
+  <td class="S">1530</td>
+  <td class="H_S">1557</td>
+  <td class="H_S">1606</td>
+  <td class="S">1702</td>
+  <td class="We">1843</td>
+  <td class="We">1521</td>
+  <td>1585</td>
+  <td>1613</td>
+  <td>607853</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td class="H_H">1645</td>
+  <td class="S">1610</td>
+  <td class="H_S">1656</td>
+  <td class="H_S">1673</td>
+  <td class="S">1898</td>
+  <td class="We">1932</td>
+  <td class="We">1811</td>
+  <td>1696</td>
+  <td>1746</td>
+  <td>658087</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td class="H_H">1712</td>
+  <td class="S">1663</td>
+  <td class="H_S">1757</td>
+  <td class="H_S">1738</td>
+  <td class="S">1910</td>
+  <td class="We">1907</td>
+  <td class="We">1964</td>
+  <td>1756</td>
+  <td>1807</td>
+  <td>681085</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+
+  <td class="H_H">1717</td>
+  <td class="S">1676</td>
+  <td class="H_S">1730</td>
+  <td class="H_S">1742</td>
+  <td class="S">1866</td>
+  <td class="We">1790</td>
+  <td class="We">1863</td>
+  <td>1746</td>
+  <td>1769</td>
+  <td>666833</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td class="H_H">1880</td>
+  <td class="S">1928</td>
+  <td class="H_S">1958</td>
+  <td class="H_S">1970</td>
+  <td class="S">1959</td>
+  <td class="We">1674</td>
+  <td class="We">1657</td>
+  <td>1939</td>
+  <td>1861</td>
+  <td>702026</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td class="H_H">2000</td>
+  <td class="S">2127</td>
+  <td class="H_S">2091</td>
+  <td class="H_S">2077</td>
+  <td class="S">1884</td>
+  <td class="We">1551</td>
+  <td class="We">1541</td>
+  <td>2036</td>
+  <td>1896</td>
+  <td>715654</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td class="H_H">1795</td>
+  <td class="S">1889</td>
+  <td class="H_S">1913</td>
+  <td class="H_S">1893</td>
+  <td class="S">1689</td>
+  <td class="We">1396</td>
+  <td class="We">1394</td>
+  <td>1836</td>
+  <td>1710</td>
+  <td>645440</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td class="H_H">1434</td>
+  <td class="S">1483</td>
+  <td class="H_S">1549</td>
+  <td class="H_S">1592</td>
+  <td>1530</td>
+  <td class="We">1231</td>
+  <td class="We">1284</td>
+  <td>1518</td>
+  <td>1443</td>
+  <td>544633</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td class="H_H">1115</td>
+  <td class="S">1103</td>
+  <td class="H_S">1178</td>
+  <td class="H_S">1209</td>
+  <td>1215</td>
+  <td class="We">997</td>
+  <td class="We">1062</td>
+  <td>1164</td>
+  <td>1125</td>
+  <td>423336</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td class="H_H">763</td>
+  <td class="S">803</td>
+  <td class="H_S">817</td>
+  <td class="H_S">846</td>
+  <td>788</td>
+  <td class="We">690</td>
+  <td class="We">759</td>
+  <td>803</td>
+  <td>781</td>
+  <td>293696</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
+  <td class="H_H">479</td>
+  <td class="S">548</td>
+  <td class="H_S">549</td>
+  <td class="H_S">555</td>
+  <td>560</td>
+  <td class="We">475</td>
+  <td class="We">480</td>
+  <td>538</td>
+  <td>521</td>
+  <td>195449</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
+  <td class="H_H">266</td>
+  <td class="S">292</td>
+  <td class="H_S">304</td>
+  <td class="H_S">322</td>
+  <td>375</td>
+  <td class="We">389</td>
+  <td class="We">278</td>
+  <td>312</td>
+  <td>318</td>
+  <td>119146</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
+  <td class="H_H">145</td>
+  <td class="S">141</td>
+  <td class="H_S">172</td>
+  <td class="H_S">180</td>
+  <td>247</td>
+  <td class="We">250</td>
+  <td class="We">157</td>
+  <td>177</td>
+  <td>184</td>
+  <td>69105</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td class="H">21265</td>
+  <td>22760</td>
+  <td class="H">22962</td>
+  <td class="H">23028</td>
+  <td>22352</td>
+  <td class="We">17898</td>
+  <td class="We">15777</td>
+  <td>22474</td>
+  <td>20864</td>
+  <td>7870322</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td class="H">24660</td>
+  <td>26452</td>
+  <td class="H">26738</td>
+  <td class="H">26847</td>
+  <td>26004</td>
+  <td class="We">20420</td>
+  <td class="We">18313</td>
+  <td>26141</td>
+  <td>24205</td>
+  <td>9127808</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td class="H">25071</td>
+  <td>26885</td>
+  <td class="H">27214</td>
+  <td class="H">27349</td>
+  <td>26625</td>
+  <td class="We">21059</td>
+  <td class="We">18748</td>
+  <td>26629</td>
+  <td>24707</td>
+  <td>9316059</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td class="H">25704</td>
+  <td>27547</td>
+  <td class="H">27862</td>
+  <td class="H">28010</td>
+  <td>27306</td>
+  <td class="We">21662</td>
+  <td class="We">19320</td>
+  <td>27286</td>
+  <td>25344</td>
+  <td>9555574</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="We">11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td>08:00:00</td>
+  <td>08:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">2228</td>
+  <td>2700</td>
+  <td class="H">2673</td>
+  <td class="H">2606</td>
+  <td>2290</td>
+  <td class="We">1843</td>
+  <td class="We">1521</td>
+  <td>2499</td>
+  <td>1984</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td class="H">16:00:00</td>
+  <td>16:00:00</td>
+  <td class="H">16:00:00</td>
+  <td class="H">16:00:00</td>
+  <td>15:00:00</td>
+  <td class="We">12:00:00</td>
+  <td class="We">13:00:00</td>
+  <td>16:00:00</td>
+  <td>16:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">2000</td>
+  <td>2127</td>
+  <td class="H">2091</td>
+  <td class="H">2077</td>
+  <td>1959</td>
+  <td class="We">1932</td>
+  <td class="We">1964</td>
+  <td>2036</td>
+  <td>1896</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=11>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=11>All Westbound</th></tr>
+ <tr>
+  <th></th>
+  <th>&lt;&minus;&minus;</th>
+  <th colspan=5>Average of each</th>
+  <th>&minus;&minus;&gt;</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
+  <th>Sun</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td class="H_H">147</td>
+  <td class="S">129</td>
+  <td class="H_S">117</td>
+  <td class="H_S">132</td>
+  <td class="S">160</td>
+  <td class="We">236</td>
+  <td class="We">225</td>
+  <td>137</td>
+  <td>164</td>
+  <td>61481</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
+  <td class="H_H">72</td>
+  <td class="S">58</td>
+  <td class="H_S">63</td>
+  <td class="H_S">64</td>
+  <td class="S">76</td>
+  <td class="We">117</td>
+  <td class="We">138</td>
+  <td>67</td>
+  <td>84</td>
+  <td>31380</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
+  <td class="H_H">52</td>
+  <td class="S">40</td>
+  <td class="H_S">43</td>
+  <td class="H_S">46</td>
+  <td class="S">60</td>
+  <td class="We">81</td>
+  <td class="We">86</td>
+  <td>48</td>
+  <td>58</td>
+  <td>21909</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
+  <td class="H_H">53</td>
+  <td class="S">45</td>
+  <td class="H_S">47</td>
+  <td class="H_S">50</td>
+  <td class="S">54</td>
+  <td class="We">77</td>
+  <td class="We">61</td>
+  <td>50</td>
+  <td>55</td>
+  <td>20702</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td class="H_H">83</td>
+  <td class="S">86</td>
+  <td class="H_S">87</td>
+  <td class="H_S">88</td>
+  <td class="S">90</td>
+  <td class="We">77</td>
+  <td class="We">55</td>
+  <td>87</td>
+  <td>81</td>
+  <td>30457</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+
+  <td class="H_H">165</td>
+  <td class="S">181</td>
+  <td class="H_S">177</td>
+  <td class="H_S">179</td>
+  <td class="S">171</td>
+  <td class="We">113</td>
+  <td class="We">63</td>
+  <td>174</td>
+  <td>150</td>
+  <td>56474</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
+  <td class="H_H">476</td>
+  <td class="S">572</td>
+  <td class="H_S">569</td>
+  <td class="H_S">556</td>
+  <td class="S">535</td>
+  <td class="We">248</td>
+  <td class="We">142</td>
+  <td>542</td>
+  <td>443</td>
+  <td>166920</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
+  <td class="H_H">1401</td>
+  <td class="S">1661</td>
+  <td class="H_S">1649</td>
+  <td class="H_S">1608</td>
+  <td class="S">1441</td>
+  <td class="We">539</td>
+  <td class="We">318</td>
+  <td>1552</td>
+  <td>1231</td>
+  <td>464460</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
+  <td class="H_H">1630</td>
+  <td class="S">1951</td>
+  <td class="H_S">1931</td>
+  <td class="H_S">1898</td>
+  <td class="S">1696</td>
+  <td class="We">761</td>
+  <td class="We">416</td>
+  <td>1821</td>
+  <td>1469</td>
+  <td>554156</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td class="H_H">1345</td>
+  <td class="S">1581</td>
+  <td class="H_S">1625</td>
+  <td class="H_S">1549</td>
+  <td class="S">1451</td>
+  <td class="We">1171</td>
+  <td class="We">692</td>
+  <td>1510</td>
+  <td>1345</td>
+  <td>508069</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td class="H_H">1286</td>
+  <td class="S">1404</td>
+  <td class="H_S">1420</td>
+  <td class="H_S">1436</td>
+  <td class="S">1482</td>
+  <td class="We">1512</td>
+  <td class="We">997</td>
+  <td>1406</td>
+  <td>1363</td>
+  <td>513948</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+  <td class="H_H">1443</td>
+  <td class="S">1507</td>
+  <td class="H_S">1514</td>
+  <td class="H_S">1560</td>
+  <td class="S">1724</td>
+  <td class="We">1828</td>
+  <td class="We">1284</td>
+  <td>1549</td>
+  <td>1551</td>
+  <td>584782</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td class="H_H">1606</td>
+  <td class="S">1651</td>
+  <td class="H_S">1696</td>
+  <td class="H_S">1735</td>
+  <td class="S">1946</td>
+  <td class="We">2033</td>
+  <td class="We">1558</td>
+  <td>1727</td>
+  <td>1746</td>
+  <td>658255</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td class="H_H">1738</td>
+  <td class="S">1796</td>
+  <td class="H_S">1872</td>
+  <td class="H_S">1866</td>
+  <td class="S">2190</td>
+  <td class="We">2051</td>
+  <td class="We">1729</td>
+  <td>1892</td>
+  <td>1892</td>
+  <td>713151</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+  <td class="H_H">1864</td>
+  <td class="S">1915</td>
+  <td class="H_S">1954</td>
+  <td class="H_S">2002</td>
+  <td class="S">2449</td>
+  <td class="We">1967</td>
+  <td class="We">1697</td>
+  <td>2037</td>
+  <td>1978</td>
+  <td>746121</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td class="H_H">2200</td>
+  <td class="S">2308</td>
+  <td class="H_S">2289</td>
+  <td class="H_S">2380</td>
+  <td class="S">2768</td>
+  <td class="We">1869</td>
+  <td class="We">1681</td>
+  <td>2389</td>
+  <td>2213</td>
+  <td>835441</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td class="H_H">2790</td>
+  <td class="S">3021</td>
+  <td class="H_S">2976</td>
+  <td class="H_S">3044</td>
+  <td class="S">2818</td>
+  <td class="We">1797</td>
+  <td class="We">1645</td>
+  <td>2930</td>
+  <td>2585</td>
+  <td>976483</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td class="H_H">2791</td>
+  <td class="S">3121</td>
+  <td class="H_S">3073</td>
+  <td class="H_S">3064</td>
+  <td class="S">2495</td>
+  <td class="We">1619</td>
+  <td class="We">1504</td>
+  <td>2909</td>
+  <td>2524</td>
+  <td>953963</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td class="H_H">1815</td>
+  <td class="S">2148</td>
+  <td class="H_S">2169</td>
+  <td class="H_S">2168</td>
+  <td>1901</td>
+  <td class="We">1391</td>
+  <td class="We">1342</td>
+  <td>2041</td>
+  <td>1848</td>
+  <td>697890</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td class="H_H">1244</td>
+  <td class="S">1354</td>
+  <td class="H_S">1439</td>
+  <td class="H_S">1485</td>
+  <td>1456</td>
+  <td class="We">1159</td>
+  <td class="We">1066</td>
+  <td>1396</td>
+  <td>1315</td>
+  <td>494753</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td class="H_H">907</td>
+  <td class="S">956</td>
+  <td class="H_S">1022</td>
+  <td class="H_S">1101</td>
+  <td>1011</td>
+  <td class="We">818</td>
+  <td class="We">792</td>
+  <td>999</td>
+  <td>944</td>
+  <td>355179</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
+  <td class="H_H">628</td>
+  <td class="S">660</td>
+  <td class="H_S">739</td>
+  <td class="H_S">770</td>
+  <td>798</td>
+  <td class="We">574</td>
+  <td class="We">549</td>
+  <td>719</td>
+  <td>674</td>
+  <td>252814</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
+  <td class="H_H">365</td>
+  <td class="S">392</td>
+  <td class="H_S">439</td>
+  <td class="H_S">488</td>
+  <td>571</td>
+  <td class="We">510</td>
+  <td class="We">379</td>
+  <td>451</td>
+  <td>449</td>
+  <td>168292</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
+  <td class="H_H">213</td>
+  <td class="S">223</td>
+  <td class="H_S">241</td>
+  <td class="H_S">295</td>
+  <td>365</td>
+  <td class="We">362</td>
+  <td class="We">262</td>
+  <td>267</td>
+  <td>280</td>
+  <td>104854</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td class="H">21909</td>
+  <td>24065</td>
+  <td class="H">24167</td>
+  <td class="H">24309</td>
+  <td>24361</td>
+  <td class="We">18538</td>
+  <td class="We">14864</td>
+  <td>23763</td>
+  <td>21745</td>
+  <td>8206719</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td class="H">25164</td>
+  <td>27607</td>
+  <td class="H">27938</td>
+  <td class="H">28221</td>
+  <td>28160</td>
+  <td class="We">21337</td>
+  <td class="We">17414</td>
+  <td>27418</td>
+  <td>25120</td>
+  <td>9476385</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td class="H">25741</td>
+  <td>28221</td>
+  <td class="H">28618</td>
+  <td class="H">29004</td>
+  <td>29097</td>
+  <td class="We">22208</td>
+  <td class="We">18054</td>
+  <td>28136</td>
+  <td>25849</td>
+  <td>9749531</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td class="H">26314</td>
+  <td>28760</td>
+  <td class="H">29152</td>
+  <td class="H">29563</td>
+  <td>29708</td>
+  <td class="We">22910</td>
+  <td class="We">18684</td>
+  <td>28699</td>
+  <td>26441</td>
+  <td>9971934</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td>11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td>08:00:00</td>
+  <td>11:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">1630</td>
+  <td>1951</td>
+  <td class="H">1931</td>
+
+  <td class="H">1898</td>
+  <td>1724</td>
+  <td class="We">1828</td>
+  <td class="We">1284</td>
+  <td>1821</td>
+  <td>1551</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td class="H">17:00:00</td>
+  <td>17:00:00</td>
+  <td class="H">17:00:00</td>
+  <td class="H">17:00:00</td>
+  <td>16:00:00</td>
+  <td class="We">13:00:00</td>
+  <td class="We">13:00:00</td>
+  <td>16:00:00</td>
+  <td>16:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">2791</td>
+  <td>3121</td>
+  <td class="H">3073</td>
+  <td class="H">3064</td>
+  <td>2818</td>
+  <td class="We">2051</td>
+  <td class="We">1729</td>
+  <td>2930</td>
+  <td>2585</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=11>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=11>Eastbound 1</th></tr>
+ <tr>
+  <th></th>
+  <th>&lt;&minus;&minus;</th>
+  <th colspan=5>Average of each</th>
+  <th>&minus;&minus;&gt;</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
+  <th>Sun</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td class="H_H">74</td>
+  <td class="S">59</td>
+  <td class="H_S">62</td>
+  <td class="H_S">70</td>
+  <td class="S">83</td>
+  <td class="We">121</td>
+  <td class="We">142</td>
+  <td>69</td>
+  <td>87</td>
+  <td>32657</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
+  <td class="H_H">47</td>
+  <td class="S">36</td>
+  <td class="H_S">39</td>
+  <td class="H_S">39</td>
+  <td class="S">47</td>
+  <td class="We">70</td>
+  <td class="We">87</td>
+  <td>42</td>
+  <td>52</td>
+  <td>19452</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
+  <td class="H_H">43</td>
+  <td class="S">36</td>
+  <td class="H_S">38</td>
+  <td class="H_S">41</td>
+  <td class="S">47</td>
+  <td class="We">58</td>
+  <td class="We">60</td>
+  <td>41</td>
+  <td>46</td>
+  <td>17297</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
+  <td class="H_H">64</td>
+  <td class="S">63</td>
+  <td class="H_S">64</td>
+  <td class="H_S">66</td>
+  <td class="S">67</td>
+  <td class="We">80</td>
+  <td class="We">63</td>
+  <td>65</td>
+  <td>67</td>
+  <td>25131</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td class="H_H">98</td>
+  <td class="S">104</td>
+  <td class="H_S">95</td>
+  <td class="H_S">101</td>
+  <td class="S">105</td>
+  <td class="We">83</td>
+  <td class="We">70</td>
+  <td>101</td>
+  <td>94</td>
+  <td>35292</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+  <td class="H_H">232</td>
+  <td class="S">275</td>
+  <td class="H_S">265</td>
+  <td class="H_S">260</td>
+  <td class="S">250</td>
+  <td class="We">142</td>
+  <td class="We">107</td>
+  <td>257</td>
+  <td>219</td>
+  <td>82529</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
+  <td class="H_H">632</td>
+  <td class="S">729</td>
+  <td class="H_S">714</td>
+  <td class="H_S">707</td>
+  <td class="S">659</td>
+  <td class="We">295</td>
+  <td class="We">206</td>
+  <td>688</td>
+  <td>563</td>
+  <td>212351</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
+  <td class="H_H">1021</td>
+  <td class="S">1171</td>
+  <td class="H_S">1146</td>
+  <td class="H_S">1140</td>
+  <td class="S">1058</td>
+  <td class="We">455</td>
+  <td class="We">296</td>
+  <td>1107</td>
+  <td>898</td>
+  <td>338744</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
+  <td class="H_H">1114</td>
+  <td class="S">1278</td>
+  <td class="H_S">1257</td>
+  <td class="H_S">1248</td>
+  <td class="S">1169</td>
+  <td class="We">668</td>
+  <td class="We">378</td>
+  <td>1213</td>
+  <td>1016</td>
+  <td>382949</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td class="H_H">1006</td>
+  <td class="S">1103</td>
+  <td class="H_S">1077</td>
+  <td class="H_S">1114</td>
+  <td class="S">1056</td>
+  <td class="We">896</td>
+  <td class="We">594</td>
+  <td>1071</td>
+  <td>978</td>
+  <td>369280</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td class="H_H">961</td>
+  <td class="S">1007</td>
+  <td class="H_S">996</td>
+  <td class="H_S">1016</td>
+  <td class="S">1027</td>
+  <td class="We">1033</td>
+  <td class="We">806</td>
+  <td>1001</td>
+  <td>978</td>
+  <td>368867</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+  <td class="H_H">991</td>
+  <td class="S">993</td>
+  <td class="H_S">1000</td>
+  <td class="H_S">1021</td>
+  <td class="S">1060</td>
+  <td class="We">1121</td>
+  <td class="We">989</td>
+  <td>1013</td>
+  <td>1025</td>
+  <td>386337</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td class="H_H">1044</td>
+  <td class="S">1025</td>
+  <td class="H_S">1042</td>
+  <td class="H_S">1047</td>
+  <td class="S">1131</td>
+  <td class="We">1153</td>
+  <td class="We">1115</td>
+  <td>1058</td>
+  <td>1080</td>
+  <td>406881</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td class="H_H">1074</td>
+  <td class="S">1050</td>
+  <td class="H_S">1089</td>
+  <td class="H_S">1074</td>
+  <td class="S">1140</td>
+  <td class="We">1144</td>
+  <td class="We">1171</td>
+  <td>1085</td>
+  <td>1106</td>
+  <td>416793</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+  <td class="H_H">1067</td>
+  <td class="S">1047</td>
+  <td class="H_S">1061</td>
+  <td class="H_S">1062</td>
+  <td class="S">1111</td>
+  <td class="We">1101</td>
+  <td class="We">1126</td>
+  <td>1069</td>
+  <td>1082</td>
+  <td>407816</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td class="H_H">1123</td>
+  <td class="S">1135</td>
+  <td class="H_S">1141</td>
+  <td class="H_S">1148</td>
+  <td class="S">1149</td>
+  <td class="We">1049</td>
+  <td class="We">1047</td>
+  <td>1139</td>
+  <td>1113</td>
+  <td>419827</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td class="H_H">1182</td>
+  <td class="S">1225</td>
+  <td class="H_S">1209</td>
+  <td class="H_S">1204</td>
+  <td class="S">1144</td>
+  <td class="We">992</td>
+  <td class="We">991</td>
+  <td>1193</td>
+  <td>1135</td>
+  <td>428356</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td class="H_H">1114</td>
+  <td class="S">1151</td>
+  <td class="H_S">1151</td>
+  <td class="H_S">1146</td>
+  <td class="S">1054</td>
+  <td class="We">917</td>
+  <td class="We">918</td>
+  <td>1123</td>
+  <td>1065</td>
+  <td>401727</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td class="H_H">933</td>
+  <td class="S">950</td>
+  <td class="H_S">976</td>
+  <td class="H_S">1000</td>
+  <td>965</td>
+  <td class="We">831</td>
+  <td class="We">864</td>
+  <td>965</td>
+  <td>931</td>
+  <td>351320</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td class="H_H">778</td>
+  <td class="S">772</td>
+  <td class="H_S">808</td>
+  <td class="H_S">823</td>
+  <td>818</td>
+  <td class="We">712</td>
+  <td class="We">755</td>
+  <td>800</td>
+  <td>781</td>
+  <td>293681</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td class="H_H">580</td>
+  <td class="S">606</td>
+  <td class="H_S">612</td>
+  <td class="H_S">629</td>
+  <td>593</td>
+  <td class="We">531</td>
+  <td class="We">580</td>
+  <td>604</td>
+  <td>590</td>
+  <td>221888</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
+
+  <td class="H_H">390</td>
+  <td class="S">437</td>
+  <td class="H_S">441</td>
+  <td class="H_S">443</td>
+  <td>446</td>
+  <td class="We">388</td>
+  <td class="We">391</td>
+  <td>431</td>
+  <td>419</td>
+  <td>157266</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
+  <td class="H_H">231</td>
+  <td class="S">249</td>
+  <td class="H_S">259</td>
+  <td class="H_S">273</td>
+  <td>316</td>
+  <td class="We">322</td>
+  <td class="We">240</td>
+  <td>265</td>
+  <td>270</td>
+  <td>101221</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
+  <td class="H_H">130</td>
+  <td class="S">128</td>
+  <td class="H_S">154</td>
+  <td class="H_S">161</td>
+  <td>215</td>
+  <td class="We">219</td>
+  <td class="We">141</td>
+  <td>157</td>
+  <td>164</td>
+  <td>61408</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td class="H">12629</td>
+  <td>13135</td>
+  <td class="H">13145</td>
+  <td class="H">13219</td>
+  <td>13064</td>
+  <td class="We">11361</td>
+  <td class="We">10295</td>
+  <td>13039</td>
+  <td>12407</td>
+  <td>4678897</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td class="H">15009</td>
+  <td>15679</td>
+  <td class="H">15719</td>
+  <td class="H">15821</td>
+  <td>15580</td>
+  <td class="We">13286</td>
+  <td class="We">12226</td>
+  <td>15562</td>
+  <td>14760</td>
+  <td>5564083</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td class="H">15371</td>
+  <td>16055</td>
+  <td class="H">16132</td>
+  <td class="H">16254</td>
+  <td>16112</td>
+  <td class="We">13827</td>
+  <td class="We">12607</td>
+  <td>15985</td>
+  <td>15194</td>
+  <td>5726712</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td class="H">15930</td>
+  <td>16629</td>
+  <td class="H">16697</td>
+  <td class="H">16831</td>
+  <td>16710</td>
+  <td class="We">14381</td>
+  <td class="We">13135</td>
+  <td>16559</td>
+  <td>15759</td>
+  <td>5939070</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="We">11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td>08:00:00</td>
+  <td>11:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">1114</td>
+  <td>1278</td>
+  <td class="H">1257</td>
+  <td class="H">1248</td>
+  <td>1169</td>
+  <td class="We">1121</td>
+  <td class="We">989</td>
+  <td>1213</td>
+  <td>1025</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td class="H">16:00:00</td>
+  <td>16:00:00</td>
+  <td class="H">16:00:00</td>
+  <td class="H">16:00:00</td>
+  <td>15:00:00</td>
+  <td class="We">12:00:00</td>
+  <td class="We">13:00:00</td>
+  <td>16:00:00</td>
+  <td>16:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">1182</td>
+  <td>1225</td>
+  <td class="H">1209</td>
+  <td class="H">1204</td>
+  <td>1149</td>
+  <td class="We">1153</td>
+  <td class="We">1171</td>
+  <td>1193</td>
+  <td>1135</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=11>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=11>Eastbound 2</th></tr>
+ <tr>
+  <th></th>
+  <th>&lt;&minus;&minus;</th>
+  <th colspan=5>Average of each</th>
+  <th>&minus;&minus;&gt;</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
+  <th>Sun</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td class="H_H">6</td>
+  <td class="S">4</td>
+  <td class="H_S">4</td>
+  <td class="H_S">5</td>
+  <td class="S">7</td>
+  <td class="We">12</td>
+  <td class="We">15</td>
+  <td>5</td>
+  <td>8</td>
+  <td>2866</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
+  <td class="H_H">2</td>
+  <td class="S">2</td>
+  <td class="H_S">2</td>
+  <td class="H_S">3</td>
+  <td class="S">3</td>
+  <td class="We">5</td>
+  <td class="We">6</td>
+  <td>2</td>
+  <td>3</td>
+  <td>1233</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
+  <td class="H_H">2</td>
+  <td class="S">1</td>
+  <td class="H_S">2</td>
+  <td class="H_S">2</td>
+  <td class="S">2</td>
+  <td class="We">3</td>
+  <td class="We">3</td>
+  <td>2</td>
+  <td>2</td>
+  <td>822</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
+  <td class="H_H">4</td>
+  <td class="S">4</td>
+  <td class="H_S">4</td>
+  <td class="H_S">4</td>
+  <td class="S">4</td>
+  <td class="We">6</td>
+  <td class="We">5</td>
+  <td>4</td>
+  <td>4</td>
+  <td>1546</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td class="H_H">9</td>
+  <td class="S">9</td>
+  <td class="H_S">8</td>
+  <td class="H_S">9</td>
+  <td class="S">8</td>
+  <td class="We">6</td>
+  <td class="We">5</td>
+  <td>8</td>
+  <td>8</td>
+  <td>2880</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+  <td class="H_H">51</td>
+  <td class="S">68</td>
+  <td class="H_S">64</td>
+  <td class="H_S">62</td>
+  <td class="S">59</td>
+  <td class="We">17</td>
+  <td class="We">10</td>
+  <td>61</td>
+  <td>47</td>
+  <td>17810</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
+  <td class="H_H">405</td>
+  <td class="S">509</td>
+  <td class="H_S">519</td>
+  <td class="H_S">502</td>
+  <td class="S">429</td>
+  <td class="We">65</td>
+  <td class="We">29</td>
+  <td>473</td>
+  <td>351</td>
+  <td>132654</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
+  <td class="H_H">1135</td>
+  <td class="S">1477</td>
+  <td class="H_S">1460</td>
+  <td class="H_S">1398</td>
+  <td class="S">1139</td>
+  <td class="We">142</td>
+  <td class="We">56</td>
+  <td>1322</td>
+  <td>972</td>
+  <td>367302</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
+  <td class="H_H">1115</td>
+  <td class="S">1422</td>
+  <td class="H_S">1416</td>
+  <td class="H_S">1358</td>
+  <td class="S">1120</td>
+  <td class="We">269</td>
+  <td class="We">75</td>
+  <td>1286</td>
+  <td>968</td>
+  <td>365533</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td class="H_H">687</td>
+  <td class="S">830</td>
+  <td class="H_S">825</td>
+  <td class="H_S">864</td>
+  <td class="S">734</td>
+  <td class="We">480</td>
+  <td class="We">191</td>
+  <td>788</td>
+  <td>659</td>
+  <td>249146</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td class="H_H">512</td>
+  <td class="S">565</td>
+  <td class="H_S">575</td>
+  <td class="H_S">599</td>
+  <td class="S">611</td>
+  <td class="We">629</td>
+  <td class="We">348</td>
+  <td>572</td>
+  <td>548</td>
+  <td>206890</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+  <td class="H_H">540</td>
+  <td class="S">537</td>
+  <td class="H_S">557</td>
+  <td class="H_S">585</td>
+  <td class="S">643</td>
+  <td class="We">721</td>
+  <td class="We">532</td>
+  <td>572</td>
+  <td>588</td>
+  <td>221516</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td class="H_H">601</td>
+  <td class="S">585</td>
+  <td class="H_S">614</td>
+
+  <td class="H_S">627</td>
+  <td class="S">767</td>
+  <td class="We">779</td>
+  <td class="We">696</td>
+  <td>639</td>
+  <td>667</td>
+  <td>251206</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td class="H_H">638</td>
+  <td class="S">613</td>
+  <td class="H_S">668</td>
+  <td class="H_S">664</td>
+  <td class="S">770</td>
+  <td class="We">764</td>
+  <td class="We">794</td>
+  <td>671</td>
+  <td>702</td>
+  <td>264292</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+  <td class="H_H">651</td>
+  <td class="S">629</td>
+  <td class="H_S">669</td>
+  <td class="H_S">680</td>
+  <td class="S">756</td>
+  <td class="We">689</td>
+  <td class="We">737</td>
+  <td>677</td>
+  <td>687</td>
+  <td>259017</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td class="H_H">757</td>
+  <td class="S">793</td>
+  <td class="H_S">817</td>
+  <td class="H_S">822</td>
+  <td class="S">810</td>
+  <td class="We">625</td>
+  <td class="We">610</td>
+  <td>800</td>
+  <td>748</td>
+  <td>282199</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td class="H_H">818</td>
+  <td class="S">901</td>
+  <td class="H_S">882</td>
+  <td class="H_S">873</td>
+  <td class="S">740</td>
+  <td class="We">560</td>
+  <td class="We">550</td>
+  <td>843</td>
+  <td>761</td>
+  <td>287298</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td class="H_H">681</td>
+  <td class="S">739</td>
+  <td class="H_S">762</td>
+  <td class="H_S">746</td>
+  <td class="S">635</td>
+  <td class="We">479</td>
+  <td class="We">475</td>
+  <td>713</td>
+  <td>645</td>
+  <td>243713</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td class="H_H">501</td>
+  <td class="S">533</td>
+  <td class="H_S">573</td>
+  <td class="H_S">592</td>
+  <td>565</td>
+  <td class="We">400</td>
+  <td class="We">420</td>
+  <td>553</td>
+  <td>512</td>
+  <td>193313</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td class="H_H">336</td>
+  <td class="S">331</td>
+  <td class="H_S">370</td>
+  <td class="H_S">386</td>
+  <td>398</td>
+  <td class="We">284</td>
+  <td class="We">306</td>
+  <td>364</td>
+  <td>345</td>
+  <td>129655</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td class="H_H">183</td>
+  <td class="S">197</td>
+  <td class="H_S">205</td>
+  <td class="H_S">217</td>
+  <td>194</td>
+  <td class="We">160</td>
+  <td class="We">180</td>
+  <td>199</td>
+  <td>191</td>
+  <td>71808</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
+  <td class="H_H">90</td>
+  <td class="S">111</td>
+  <td class="H_S">108</td>
+  <td class="H_S">112</td>
+  <td>114</td>
+  <td class="We">87</td>
+  <td class="We">89</td>
+  <td>107</td>
+  <td>102</td>
+  <td>38183</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
+  <td class="H_H">35</td>
+  <td class="S">43</td>
+  <td class="H_S">45</td>
+  <td class="H_S">50</td>
+  <td>59</td>
+  <td class="We">67</td>
+  <td class="We">38</td>
+  <td>46</td>
+  <td>48</td>
+  <td>17925</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
+  <td class="H_H">15</td>
+  <td class="S">14</td>
+  <td class="H_S">18</td>
+  <td class="H_S">19</td>
+  <td>32</td>
+  <td class="We">31</td>
+  <td class="We">16</td>
+  <td>19</td>
+  <td>21</td>
+  <td>7697</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td class="H">8636</td>
+  <td>9625</td>
+  <td class="H">9817</td>
+  <td class="H">9809</td>
+  <td>9288</td>
+  <td class="We">6537</td>
+  <td class="We">5483</td>
+  <td>9435</td>
+  <td>8457</td>
+  <td>3191425</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td class="H">9650</td>
+  <td>10774</td>
+  <td class="H">11019</td>
+  <td class="H">11026</td>
+  <td>10423</td>
+  <td class="We">7134</td>
+  <td class="We">6087</td>
+  <td>10579</td>
+  <td>9445</td>
+  <td>3563725</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td class="H">9700</td>
+  <td>10830</td>
+  <td class="H">11082</td>
+  <td class="H">11095</td>
+  <td>10513</td>
+  <td class="We">7232</td>
+  <td class="We">6141</td>
+  <td>10644</td>
+  <td>9513</td>
+  <td>3589347</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td class="H">9774</td>
+  <td>10918</td>
+  <td class="H">11165</td>
+  <td class="H">11179</td>
+  <td>10596</td>
+  <td class="We">7281</td>
+  <td class="We">6184</td>
+  <td>10727</td>
+  <td>9586</td>
+  <td>3616504</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td class="H">07:00:00</td>
+  <td>07:00:00</td>
+  <td class="H">07:00:00</td>
+  <td class="H">07:00:00</td>
+  <td>07:00:00</td>
+  <td class="We">11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td>07:00:00</td>
+  <td>07:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">1135</td>
+  <td>1477</td>
+  <td class="H">1460</td>
+  <td class="H">1398</td>
+  <td>1139</td>
+  <td class="We">721</td>
+  <td class="We">532</td>
+  <td>1322</td>
+  <td>972</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td class="H">16:00:00</td>
+  <td>16:00:00</td>
+  <td class="H">16:00:00</td>
+  <td class="H">16:00:00</td>
+  <td>15:00:00</td>
+  <td class="We">12:00:00</td>
+  <td class="We">13:00:00</td>
+  <td>16:00:00</td>
+  <td>16:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">818</td>
+  <td>901</td>
+  <td class="H">882</td>
+  <td class="H">873</td>
+  <td>810</td>
+  <td class="We">779</td>
+  <td class="We">794</td>
+  <td>843</td>
+  <td>761</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=11>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=11>Westbound 2</th></tr>
+ <tr>
+  <th></th>
+  <th>&lt;&minus;&minus;</th>
+  <th colspan=5>Average of each</th>
+  <th>&minus;&minus;&gt;</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
+  <th>Sun</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td class="H_H">17</td>
+  <td class="S">13</td>
+  <td class="H_S">13</td>
+  <td class="H_S">13</td>
+  <td class="S">19</td>
+  <td class="We">34</td>
+  <td class="We">31</td>
+  <td>15</td>
+  <td>20</td>
+  <td>7469</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
+  <td class="H_H">6</td>
+  <td class="S">4</td>
+  <td class="H_S">4</td>
+  <td class="H_S">5</td>
+  <td class="S">7</td>
+  <td class="We">11</td>
+  <td class="We">13</td>
+  <td>5</td>
+  <td>7</td>
+  <td>2696</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
+  <td class="H_H">3</td>
+  <td class="S">2</td>
+  <td class="H_S">3</td>
+  <td class="H_S">3</td>
+  <td class="S">4</td>
+  <td class="We">6</td>
+  <td class="We">6</td>
+  <td>3</td>
+  <td>4</td>
+  <td>1517</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
+  <td class="H_H">3</td>
+  <td class="S">2</td>
+  <td class="H_S">2</td>
+  <td class="H_S">3</td>
+  <td class="S">3</td>
+  <td class="We">6</td>
+  <td class="We">5</td>
+  <td>3</td>
+
+  <td>4</td>
+  <td>1321</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td class="H_H">9</td>
+  <td class="S">9</td>
+  <td class="H_S">9</td>
+  <td class="H_S">10</td>
+  <td class="S">10</td>
+  <td class="We">6</td>
+  <td class="We">3</td>
+  <td>9</td>
+  <td>8</td>
+  <td>2958</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+  <td class="H_H">20</td>
+  <td class="S">22</td>
+  <td class="H_S">22</td>
+  <td class="H_S">23</td>
+  <td class="S">22</td>
+  <td class="We">10</td>
+  <td class="We">5</td>
+  <td>22</td>
+  <td>18</td>
+  <td>6706</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
+  <td class="H_H">110</td>
+  <td class="S">141</td>
+  <td class="H_S">146</td>
+  <td class="H_S">136</td>
+  <td class="S">132</td>
+  <td class="We">38</td>
+  <td class="We">15</td>
+  <td>133</td>
+  <td>102</td>
+  <td>38649</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
+  <td class="H_H">505</td>
+  <td class="S">634</td>
+  <td class="H_S">639</td>
+  <td class="H_S">613</td>
+  <td class="S">541</td>
+  <td class="We">118</td>
+  <td class="We">50</td>
+  <td>586</td>
+  <td>443</td>
+  <td>167255</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
+  <td class="H_H">646</td>
+  <td class="S">839</td>
+  <td class="H_S">819</td>
+  <td class="H_S">799</td>
+  <td class="S">682</td>
+  <td class="We">205</td>
+  <td class="We">71</td>
+  <td>757</td>
+  <td>580</td>
+  <td>219099</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td class="H_H">465</td>
+  <td class="S">593</td>
+  <td class="H_S">619</td>
+  <td class="H_S">581</td>
+  <td class="S">533</td>
+  <td class="We">384</td>
+  <td class="We">157</td>
+  <td>558</td>
+  <td>476</td>
+  <td>179992</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td class="H_H">420</td>
+  <td class="S">482</td>
+  <td class="H_S">501</td>
+  <td class="H_S">507</td>
+  <td class="S">541</td>
+  <td class="We">569</td>
+  <td class="We">294</td>
+  <td>490</td>
+  <td>473</td>
+  <td>178571</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+  <td class="H_H">511</td>
+  <td class="S">542</td>
+  <td class="H_S">553</td>
+  <td class="H_S">575</td>
+  <td class="S">687</td>
+  <td class="We">759</td>
+  <td class="We">441</td>
+  <td>573</td>
+  <td>581</td>
+  <td>219031</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td class="H_H">605</td>
+  <td class="S">634</td>
+  <td class="H_S">663</td>
+  <td class="H_S">692</td>
+  <td class="S">833</td>
+  <td class="We">898</td>
+  <td class="We">594</td>
+  <td>685</td>
+  <td>703</td>
+  <td>264862</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td class="H_H">685</td>
+  <td class="S">712</td>
+  <td class="H_S">773</td>
+  <td class="H_S">775</td>
+  <td class="S">1010</td>
+  <td class="We">913</td>
+  <td class="We">705</td>
+  <td>791</td>
+  <td>796</td>
+  <td>300070</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+  <td class="H_H">768</td>
+  <td class="S">795</td>
+  <td class="H_S">829</td>
+  <td class="H_S">864</td>
+  <td class="S">1212</td>
+  <td class="We">857</td>
+  <td class="We">689</td>
+  <td>893</td>
+  <td>859</td>
+  <td>324011</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td class="H_H">1011</td>
+  <td class="S">1083</td>
+  <td class="H_S">1076</td>
+  <td class="H_S">1149</td>
+  <td class="S">1441</td>
+  <td class="We">796</td>
+  <td class="We">677</td>
+  <td>1152</td>
+  <td>1033</td>
+  <td>390163</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td class="H_H">1456</td>
+  <td class="S">1619</td>
+  <td class="H_S">1588</td>
+  <td class="H_S">1642</td>
+  <td class="S">1475</td>
+  <td class="We">766</td>
+  <td class="We">671</td>
+  <td>1556</td>
+  <td>1317</td>
+  <td>497806</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td class="H_H">1428</td>
+  <td class="S">1654</td>
+  <td class="H_S">1631</td>
+  <td class="H_S">1624</td>
+  <td class="S">1227</td>
+  <td class="We">658</td>
+  <td class="We">591</td>
+  <td>1513</td>
+  <td>1259</td>
+  <td>476299</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td class="H_H">784</td>
+  <td class="S">1006</td>
+  <td class="H_S">1017</td>
+  <td class="H_S">1021</td>
+  <td>834</td>
+  <td class="We">513</td>
+  <td class="We">499</td>
+  <td>933</td>
+  <td>811</td>
+  <td>306426</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td class="H_H">440</td>
+  <td class="S">509</td>
+  <td class="H_S">561</td>
+  <td class="H_S">586</td>
+  <td>570</td>
+  <td class="We">394</td>
+  <td class="We">352</td>
+  <td>533</td>
+  <td>487</td>
+  <td>183478</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td class="H_H">272</td>
+  <td class="S">307</td>
+  <td class="H_S">337</td>
+  <td class="H_S">379</td>
+  <td>330</td>
+  <td class="We">231</td>
+  <td class="We">218</td>
+  <td>325</td>
+  <td>296</td>
+  <td>111541</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
+  <td class="H_H">157</td>
+  <td class="S">176</td>
+  <td class="H_S">207</td>
+  <td class="H_S">218</td>
+  <td>232</td>
+  <td class="We">136</td>
+  <td class="We">125</td>
+  <td>198</td>
+  <td>179</td>
+  <td>67045</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
+  <td class="H_H">70</td>
+  <td class="S">81</td>
+  <td class="H_S">92</td>
+  <td class="H_S">108</td>
+  <td>141</td>
+  <td class="We">120</td>
+  <td class="We">75</td>
+  <td>98</td>
+  <td>98</td>
+  <td>36759</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
+  <td class="H_H">28</td>
+  <td class="S">35</td>
+  <td class="H_S">35</td>
+  <td class="H_S">50</td>
+  <td>70</td>
+  <td class="We">65</td>
+  <td class="We">42</td>
+  <td>44</td>
+  <td>47</td>
+  <td>17426</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td class="H">9285</td>
+  <td>10593</td>
+  <td class="H">10709</td>
+  <td class="H">10842</td>
+  <td>11017</td>
+  <td class="We">7435</td>
+  <td class="We">5439</td>
+  <td>10489</td>
+  <td>9332</td>
+  <td>3523585</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td class="H">10264</td>
+  <td>11725</td>
+  <td class="H">11960</td>
+  <td class="H">12161</td>
+  <td>12280</td>
+  <td class="We">8234</td>
+  <td class="We">6149</td>
+  <td>11678</td>
+  <td>10396</td>
+  <td>3924298</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td class="H">10362</td>
+  <td>11841</td>
+  <td class="H">12087</td>
+  <td class="H">12319</td>
+  <td>12491</td>
+  <td class="We">8419</td>
+  <td class="We">6266</td>
+  <td>11820</td>
+  <td>10541</td>
+  <td>3978483</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td class="H">10419</td>
+  <td>11893</td>
+  <td class="H">12141</td>
+  <td class="H">12375</td>
+  <td>12555</td>
+  <td class="We">8492</td>
+  <td class="We">6331</td>
+  <td>11877</td>
+  <td>10601</td>
+  <td>4001150</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td class="H">08:00:00</td>
+
+  <td>11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td>08:00:00</td>
+  <td>11:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">646</td>
+  <td>839</td>
+  <td class="H">819</td>
+  <td class="H">799</td>
+  <td>687</td>
+  <td class="We">759</td>
+  <td class="We">441</td>
+  <td>757</td>
+  <td>581</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td class="H">16:00:00</td>
+  <td>17:00:00</td>
+  <td class="H">17:00:00</td>
+  <td class="H">16:00:00</td>
+  <td>16:00:00</td>
+  <td class="We">13:00:00</td>
+  <td class="We">13:00:00</td>
+  <td>16:00:00</td>
+  <td>16:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">1456</td>
+  <td>1654</td>
+  <td class="H">1631</td>
+  <td class="H">1642</td>
+  <td>1475</td>
+  <td class="We">913</td>
+  <td class="We">705</td>
+  <td>1556</td>
+  <td>1317</td>
+  <td></td>
+ </tr>
+ <tr><td colspan=11>&nbsp;</td></tr>
+ <tr><th style="text-align:left; font-size:110%;" colspan=11>Westbound 1</th></tr>
+ <tr>
+  <th></th>
+  <th>&lt;&minus;&minus;</th>
+  <th colspan=5>Average of each</th>
+  <th>&minus;&minus;&gt;</th>
+  <th colspan=2>Average</th>
+  <th>Total</th>
+ </tr>
+ <tr class="BP">
+  <th></th>
+  <th>Mon</th>
+  <th>Tue</th>
+  <th>Wed</th>
+  <th>Thu</th>
+  <th>Fri</th>
+  <th>Sat</th>
+  <th>Sun</th>
+  <th>Workday</th>
+  <th>7 Day</th>
+  <th>Count</th>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>00:00:00</td>
+  <td class="H_H">130</td>
+  <td class="S">116</td>
+  <td class="H_S">104</td>
+  <td class="H_S">119</td>
+  <td class="S">142</td>
+  <td class="We">202</td>
+  <td class="We">194</td>
+  <td>122</td>
+  <td>144</td>
+  <td>54012</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>01:00:00</td>
+  <td class="H_H">66</td>
+  <td class="S">54</td>
+  <td class="H_S">59</td>
+  <td class="H_S">59</td>
+  <td class="S">69</td>
+  <td class="We">106</td>
+  <td class="We">125</td>
+  <td>61</td>
+  <td>77</td>
+  <td>28684</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>02:00:00</td>
+  <td class="H_H">49</td>
+  <td class="S">38</td>
+  <td class="H_S">41</td>
+  <td class="H_S">43</td>
+  <td class="S">56</td>
+  <td class="We">75</td>
+  <td class="We">80</td>
+  <td>45</td>
+  <td>54</td>
+  <td>20392</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>03:00:00</td>
+  <td class="H_H">50</td>
+  <td class="S">43</td>
+  <td class="H_S">45</td>
+  <td class="H_S">47</td>
+  <td class="S">51</td>
+  <td class="We">71</td>
+  <td class="We">56</td>
+  <td>47</td>
+  <td>52</td>
+  <td>19381</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>04:00:00</td>
+  <td class="H_H">74</td>
+  <td class="S">77</td>
+  <td class="H_S">78</td>
+  <td class="H_S">79</td>
+  <td class="S">81</td>
+  <td class="We">72</td>
+  <td class="We">52</td>
+  <td>78</td>
+  <td>73</td>
+  <td>27499</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>05:00:00</td>
+  <td class="H_H">145</td>
+  <td class="S">158</td>
+  <td class="H_S">155</td>
+  <td class="H_S">156</td>
+  <td class="S">149</td>
+  <td class="We">103</td>
+  <td class="We">58</td>
+  <td>153</td>
+  <td>132</td>
+  <td>49768</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>06:00:00</td>
+  <td class="H_H">366</td>
+  <td class="S">431</td>
+  <td class="H_S">423</td>
+  <td class="H_S">421</td>
+  <td class="S">403</td>
+  <td class="We">210</td>
+  <td class="We">128</td>
+  <td>409</td>
+  <td>340</td>
+  <td>128271</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07:00:00</td>
+  <td class="H_H">895</td>
+  <td class="S">1028</td>
+  <td class="H_S">1009</td>
+  <td class="H_S">995</td>
+  <td class="S">900</td>
+  <td class="We">421</td>
+  <td class="We">269</td>
+  <td>965</td>
+  <td>788</td>
+  <td>297205</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>08:00:00</td>
+  <td class="H_H">984</td>
+  <td class="S">1112</td>
+  <td class="H_S">1112</td>
+  <td class="H_S">1099</td>
+  <td class="S">1014</td>
+  <td class="We">556</td>
+  <td class="We">344</td>
+  <td>1064</td>
+  <td>889</td>
+  <td>335057</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>09:00:00</td>
+  <td class="H_H">880</td>
+  <td class="S">988</td>
+  <td class="H_S">1006</td>
+  <td class="H_S">968</td>
+  <td class="S">918</td>
+  <td class="We">788</td>
+  <td class="We">535</td>
+  <td>952</td>
+  <td>869</td>
+  <td>328077</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>10:00:00</td>
+  <td class="H_H">867</td>
+  <td class="S">922</td>
+  <td class="H_S">919</td>
+  <td class="H_S">929</td>
+  <td class="S">941</td>
+  <td class="We">943</td>
+  <td class="We">703</td>
+  <td>916</td>
+  <td>889</td>
+  <td>335377</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>11:00:00</td>
+  <td class="H_H">932</td>
+  <td class="S">965</td>
+  <td class="H_S">961</td>
+  <td class="H_S">985</td>
+  <td class="S">1037</td>
+  <td class="We">1068</td>
+  <td class="We">843</td>
+  <td>976</td>
+  <td>970</td>
+  <td>365751</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>12:00:00</td>
+  <td class="H_H">1001</td>
+  <td class="S">1017</td>
+  <td class="H_S">1033</td>
+  <td class="H_S">1044</td>
+  <td class="S">1112</td>
+  <td class="We">1135</td>
+  <td class="We">964</td>
+  <td>1041</td>
+  <td>1044</td>
+  <td>393393</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>13:00:00</td>
+  <td class="H_H">1053</td>
+  <td class="S">1084</td>
+  <td class="H_S">1099</td>
+  <td class="H_S">1091</td>
+  <td class="S">1180</td>
+  <td class="We">1139</td>
+  <td class="We">1025</td>
+  <td>1101</td>
+  <td>1096</td>
+  <td>413081</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>14:00:00</td>
+  <td class="H_H">1097</td>
+  <td class="S">1120</td>
+  <td class="H_S">1125</td>
+  <td class="H_S">1138</td>
+  <td class="S">1238</td>
+  <td class="We">1110</td>
+  <td class="We">1009</td>
+  <td>1143</td>
+  <td>1119</td>
+  <td>422110</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>15:00:00</td>
+  <td class="H_H">1188</td>
+  <td class="S">1225</td>
+  <td class="H_S">1213</td>
+  <td class="H_S">1231</td>
+  <td class="S">1326</td>
+  <td class="We">1073</td>
+  <td class="We">1004</td>
+  <td>1237</td>
+  <td>1180</td>
+  <td>445278</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>16:00:00</td>
+  <td class="H_H">1334</td>
+  <td class="S">1402</td>
+  <td class="H_S">1389</td>
+  <td class="H_S">1402</td>
+  <td class="S">1343</td>
+  <td class="We">1032</td>
+  <td class="We">974</td>
+  <td>1374</td>
+  <td>1268</td>
+  <td>478677</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>17:00:00</td>
+  <td class="H_H">1363</td>
+  <td class="S">1467</td>
+  <td class="H_S">1442</td>
+  <td class="H_S">1440</td>
+  <td class="S">1268</td>
+  <td class="We">961</td>
+  <td class="We">913</td>
+  <td>1396</td>
+  <td>1265</td>
+  <td>477664</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>18:00:00</td>
+  <td class="H_H">1031</td>
+  <td class="S">1142</td>
+  <td class="H_S">1152</td>
+  <td class="H_S">1147</td>
+  <td>1067</td>
+  <td class="We">878</td>
+  <td class="We">843</td>
+  <td>1108</td>
+  <td>1037</td>
+  <td>391464</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>19:00:00</td>
+  <td class="H_H">804</td>
+  <td class="S">845</td>
+  <td class="H_S">878</td>
+  <td class="H_S">899</td>
+  <td>886</td>
+  <td class="We">765</td>
+  <td class="We">714</td>
+  <td>863</td>
+  <td>827</td>
+  <td>311275</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>20:00:00</td>
+  <td class="H_H">634</td>
+
+  <td class="S">650</td>
+  <td class="H_S">685</td>
+  <td class="H_S">722</td>
+  <td>681</td>
+  <td class="We">587</td>
+  <td class="We">574</td>
+  <td>674</td>
+  <td>648</td>
+  <td>243638</td>
+ </tr>
+ <tr class="T">
+  <td class="RHR" style='mso-number-format:"\@";'>21:00:00</td>
+  <td class="H_H">471</td>
+  <td class="S">485</td>
+  <td class="H_S">533</td>
+  <td class="H_S">552</td>
+  <td>566</td>
+  <td class="We">438</td>
+  <td class="We">423</td>
+  <td>521</td>
+  <td>495</td>
+  <td>185769</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>22:00:00</td>
+  <td class="H_H">295</td>
+  <td class="S">311</td>
+  <td class="H_S">347</td>
+  <td class="H_S">381</td>
+  <td>430</td>
+  <td class="We">390</td>
+  <td class="We">304</td>
+  <td>352</td>
+  <td>351</td>
+  <td>131533</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>23:00:00</td>
+  <td class="H_H">185</td>
+  <td class="S">188</td>
+  <td class="H_S">206</td>
+  <td class="H_S">245</td>
+  <td>295</td>
+  <td class="We">296</td>
+  <td class="We">219</td>
+  <td>223</td>
+  <td>233</td>
+  <td>87428</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>07-19</td>
+  <td class="H">12624</td>
+  <td>13471</td>
+  <td class="H">13458</td>
+  <td class="H">13467</td>
+  <td>13345</td>
+  <td class="We">11103</td>
+  <td class="We">9426</td>
+  <td>13274</td>
+  <td>12414</td>
+  <td>4683134</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-22</td>
+  <td class="H">14900</td>
+  <td>15882</td>
+  <td class="H">15978</td>
+  <td class="H">16060</td>
+  <td>15881</td>
+  <td class="We">13103</td>
+  <td class="We">11265</td>
+  <td>15740</td>
+  <td>14724</td>
+  <td>5552087</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>06-24</td>
+  <td class="H">15380</td>
+  <td>16381</td>
+  <td class="H">16530</td>
+  <td class="H">16686</td>
+  <td>16606</td>
+  <td class="We">13789</td>
+  <td class="We">11788</td>
+  <td>16316</td>
+  <td>15308</td>
+  <td>5771048</td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>00-24</td>
+  <td class="H">15895</td>
+  <td>16866</td>
+  <td class="H">17011</td>
+  <td class="H">17187</td>
+  <td>17153</td>
+  <td class="We">14418</td>
+  <td class="We">12352</td>
+  <td>16822</td>
+  <td>15840</td>
+  <td>5970784</td>
+ </tr>
+<tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>am Peak</td>
+  <td class="H">08:00:00</td>
+  <td>08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td class="H">08:00:00</td>
+  <td>11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td class="We">11:00:00</td>
+  <td>08:00:00</td>
+  <td>11:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">984</td>
+  <td>1112</td>
+  <td class="H">1112</td>
+  <td class="H">1099</td>
+  <td>1037</td>
+  <td class="We">1068</td>
+  <td class="We">843</td>
+  <td>1064</td>
+  <td>970</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>pm Peak</td>
+  <td class="H">17:00:00</td>
+  <td>17:00:00</td>
+  <td class="H">17:00:00</td>
+  <td class="H">17:00:00</td>
+  <td>16:00:00</td>
+  <td class="We">13:00:00</td>
+  <td class="We">13:00:00</td>
+  <td>17:00:00</td>
+  <td>16:00:00</td>
+  <td></td>
+ </tr>
+ <tr>
+  <td class="RHR" style='mso-number-format:"\@";'>Peak Volume</td>
+  <td class="H">1363</td>
+  <td>1467</td>
+  <td class="H">1442</td>
+  <td class="H">1440</td>
+  <td>1343</td>
+  <td class="We">1139</td>
+  <td class="We">1025</td>
+  <td>1396</td>
+  <td>1268</td>
+  <td></td>
+ </tr>
+</table> <!--grid-->
+<BR>
+<table class="key">
+<tr ALIGN=left><td class="RH">Event key:</td><td class="B">&nbsp;&nbsp;&nbsp;</td><td>QC Failure&nbsp;&nbsp;&nbsp;</td><td class="QC_O">&nbsp;&nbsp;&nbsp;</td><td>QC Outlier&nbsp;&nbsp;&nbsp;</td><td class="A">&nbsp;&nbsp;&nbsp;</td><td>QC Atypical&nbsp;&nbsp;&nbsp;</td><td class="T">&nbsp;&nbsp;&nbsp;</td><td>Events&nbsp;&nbsp;&nbsp;</td><td class="S">&nbsp;&nbsp;&nbsp;</td><td>Special&nbsp;&nbsp;&nbsp;</td><td class="H">&nbsp;&nbsp;&nbsp;</td><td>Holiday&nbsp;&nbsp;&nbsp;</td><td class="O">&nbsp;&nbsp;&nbsp;</td><td>Offline&nbsp;&nbsp;&nbsp;</td></tr>
+<tr><td></td><td class="H">&nbsp;&nbsp;&nbsp;</td><td COLSPAN=5>Weekends and defined holidays&nbsp;&nbsp;&nbsp;</td><td class="F">&nbsp;&nbsp;&nbsp;</td><td COLSPAN=3>Holiday-affected days&nbsp;&nbsp;&nbsp;</td></tr>
+</table> <!--key-->
+<table class="notes">
+<tr><td class="RH" COLSPAN=11>Notes on data:</td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td COLSPAN=10>Weekly (7-day) averages are calculated as the average of workday values and weekend values, weighted in the proportion 5:2.</td></tr>
+<tr><td>&nbsp;&nbsp;&nbsp;</td><td COLSPAN=10></td></tr>
+</table> <!--notes-->
+<table class="events">
+<tr><td class="RH" COLSPAN=8>Holidays & Events:</td></tr>
+<tr><td></td><td COLSPAN=2>Start</td><td COLSPAN=2>End</td><td>Type</td><td>Lanes</td><td>Included</td><td COLSPAN=20 ALIGN=left>Description</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2024-08-05 00:00:00</td><td COLSPAN=2>2024-08-05 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2024-10-28 00:00:00</td><td COLSPAN=2>2024-10-28 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2024-12-25 00:00:00</td><td COLSPAN=2>2024-12-25 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2024-12-26 00:00:00</td><td COLSPAN=2>2024-12-26 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2025-01-01 00:00:00</td><td COLSPAN=2>2025-01-01 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="S">&nbsp;&nbsp;</td><td COLSPAN=2>2025-01-23 22:00:00</td><td COLSPAN=2>2025-01-24 17:59:59</td><td>Special</td><td>-</td><td>Yes</td><td COLSPAN=20>Status Red Weather Event Storm Eowyn</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2025-03-17 00:00:00</td><td COLSPAN=2>2025-03-17 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2025-04-21 00:00:00</td><td COLSPAN=2>2025-04-21 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2025-05-05 00:00:00</td><td COLSPAN=2>2025-05-05 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2025-06-02 00:00:00</td><td COLSPAN=2>2025-06-02 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+<tr><td class="S">&nbsp;&nbsp;</td><td COLSPAN=2>2025-07-01 00:00:00</td><td COLSPAN=2>2025-07-02 23:59:59</td><td>Special</td><td>-</td><td>Yes</td><td COLSPAN=20>Duncan Test Group Event.</td></tr>
+<tr><td class="S">&nbsp;&nbsp;</td><td COLSPAN=2>2025-07-03 00:00:00</td><td COLSPAN=2>2025-07-03 23:59:59</td><td>Special</td><td>-</td><td>Yes</td><td COLSPAN=20>Duncan Test Global Event</td></tr>
+<tr><td class="H">&nbsp;&nbsp;</td><td COLSPAN=2>2025-08-04 00:00:00</td><td COLSPAN=2>2025-08-04 23:59:00</td><td>Holiday</td><td>-</td><td>Yes</td><td COLSPAN=20>Holiday</td></tr>
+</table> <!--events-->
+  </div></div>  </div> <!--content-->
+ </div> <!--container-->
+ <div id="push"></div>
+</div> <!--wrapper-->
+
+		<script type="text/javascript">
+			(function($)
+			{
+				$(document).ready(function()
+				{
+					var sideMenuOpen = (localStorage.getItem('c2_showmenu') === 'true');
+					
+					var closeSideMenu = function()
+					{
+						$('.sidebar-nav').removeClass('nav-expanded');
+						$('.nav-expander').removeClass('nav-expander-expanded');
+						localStorage.setItem('c2_showmenu', false);
+						sideMenuOpen = false;
+					};
+					
+					var openSideMenu = function()
+					{
+						$('.sidebar-nav').addClass('nav-expanded');
+						$('.nav-expander').addClass('nav-expander-expanded');
+						localStorage.setItem('c2_showmenu', true);
+						sideMenuOpen = true;
+					};
+
+					$('#nav-expander').on('click',function(e)
+					{
+						e.preventDefault();
+						sideMenuOpen ? closeSideMenu() : openSideMenu();
+					});
+					
+					$('#nav-close').on('click',function(e)
+					{
+						e.preventDefault();
+						closeSideMenu();
+					});
+
+					// Set the initial menu state
+					if($('#nav-expander') && $('#nav-expander').length > 0)
+					{
+						sideMenuOpen ? openSideMenu() : closeSideMenu();
+					}
+					
+					var footerOpen = (localStorage.getItem('c2_showfooter') === 'true');
+					
+					var closeFooter = function()
+					{
+						$('#footer').css('bottom', '-' + ($('#footer').height()) + 'px').css('transition', 'bottom 0.3s ease-in-out 0s');
+						$('#footer-expander').html('<span class="glyphicon glyphicon-chevron-up">');
+						setTimeout(function()
+						{	
+							$('#footer div').hide();
+						}, 100);
+						localStorage.setItem('c2_showfooter', false);
+						footerOpen = false;
+					};
+					
+					var openFooter = function()
+					{
+						$('#footer div').show();
+						$('#footer').css('bottom', '0px').css('transition', 'bottom 0.3s ease-in-out 0s');
+						$('#footer-expander').html('<span class="glyphicon glyphicon-chevron-down">');
+						localStorage.setItem('c2_showfooter', true);
+						footerOpen = true;
+					};
+
+					$('#footer-expander').on('click',function(e)
+					{
+						e.preventDefault();
+						footerOpen ? closeFooter() : openFooter();
+					});
+
+					// Set the initial footer state
+					if($('#footer-expander') && $('#footer-expander').length > 0)
+					{
+						footerOpen ? openFooter() : closeFooter();
+					}
+					
+					
+					$('.dropdown-menu [data-toggle=dropdown]').on('click', function(event)
+					{
+						event.preventDefault(); 
+						event.stopPropagation(); 
+						$(this).parent().siblings().removeClass('open');
+						$(this).parent().toggleClass('open');
+					});
+				});
+			})(jQuery);
+		</script>		
+		</body>
+</html>

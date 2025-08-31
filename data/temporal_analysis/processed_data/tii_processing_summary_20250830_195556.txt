@@ -1,0 +1,21 @@
+TII DATA PROCESSING SUMMARY
+==================================================
+Generated: 2025-08-30 19:55:57
+Total Files Processed: 58
+Total Records: 6,096
+Total Volume: 8,797,480.5
+Total Sites: 29
+==================================================
+
+M7 Dublin-Limerick:
+  Files Processed: 42
+  Total Records: 4,272
+  Total Volume: 5,056,239.3
+  Sites: 21
+
+N40 Cork Ring Road:
+  Files Processed: 16
+  Total Records: 1,824
+  Total Volume: 3,741,241.2
+  Sites: 8
+

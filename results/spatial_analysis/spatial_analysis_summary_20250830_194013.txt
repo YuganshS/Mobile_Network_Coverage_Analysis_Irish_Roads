@@ -1,0 +1,15 @@
+SPATIAL ANALYSIS SUMMARY
+==================================================
+Generated: 2025-08-30 19:40:14
+Analysis Method: Main Analysis Engine
+Roads Analyzed: M7, N40
+==================================================
+
+M7 Dublin-Limerick:
+  Total Points: 11108
+  Networks Analyzed: 4
+
+N40 Cork Ring Road:
+  Total Points: 1130
+  Networks Analyzed: 4
+
