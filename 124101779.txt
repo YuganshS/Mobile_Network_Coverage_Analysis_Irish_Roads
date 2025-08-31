@@ -1,0 +1,11 @@
+Analysis of Mobile Network Coverage for Vehicular Traffic on Irish Roads
+
+This research analyzes mobile network coverage performance along Ireland's major transportation corridors, specifically the M7 Dublin-Limerick motorway and N40 Cork Ring Road. The study combines spatial analysis of real ComReg coverage data with temporal analysis of TII traffic patterns to understand network performance in transportation environments.
+
+The methodology integrates coverage measurements from 12,238 geographic points (11,108 M7, 1,130 N40) with hourly traffic data from 29 monitoring sites. Advanced spatial clustering techniques (K-means and DBSCAN) identify coverage patterns and network complementarity. The research compares traditional Hata Cost-231 models with 3GPP TR 38.901 standardized models for 4G and 5G networks.
+
+Results reveal excellent overall coverage performance with M7 achieving 98.2% (Vodafone 4G), 74.6% (Vodafone 5G), 99.0% (Three 4G), and 96.5% (Three 5G) coverage. N40 demonstrates consistent 97.3% coverage across all networks. Model comparison shows Hata models predicting 98% coverage while 3GPP models predict 77% coverage, with 22.1% model agreement rate.
+
+Temporal analysis identifies peak traffic hours at 16:00, with M7 averaging 1,496 vehicles/hour (peak: 2,766) and N40 averaging 2,877 vehicles/hour (peak: 5,628). Seasonal analysis reveals Spring 2025 as peak season (1.11x factor) and Summer 2024 as lowest (0.75x factor).
+
+The research provides evidence-based insights for infrastructure planning and capacity optimization in Ireland's mobile telecommunications sector, supporting informed decision-making for network densification and 5G deployment strategies.
