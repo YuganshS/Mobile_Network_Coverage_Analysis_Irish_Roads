@@ -50,3 +50,10 @@ Thumbs.db
 
 # Logs
 *.log
+
+# LaTeX
+*.aux
+*.bcf
+*.out
+*.run.xml
+*.toc
