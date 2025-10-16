@@ -1,7 +1,7 @@
 # Mobile Network Coverage Analysis for Vehicular Traffic on Irish Roads
 
 # Name - Yugansh Suryavanshi
-# Student Id - 124101779
+
 
 ## Project Overview
 This research project analyzes mobile network coverage performance along Ireland's major transportation corridors, specifically the M7 Dublin-Limerick motorway and N40 Cork Ring Road. The study combines spatial analysis of real ComReg coverage data with temporal analysis of TII traffic patterns to understand network performance in transportation environments.
