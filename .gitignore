@@ -42,18 +42,13 @@ Thumbs.db
 *.zip
 *.pdf
 
+# Exclude large raw data folders
+data/RAW_TII/
+scripts/*.pdf
+Mobile_Network_Coverage_Analysis_on_Irish_Roads/*.pdf
+
 # Keep data and results folders but exclude very large files
 # Uncomment the lines below if you want to exclude specific large files
 # data/*.csv
 # data/*.json
 # data/*.geojson
-
-# Logs
-*.log
-
-# LaTeX
-*.aux
-*.bcf
-*.out
-*.run.xml
-*.toc

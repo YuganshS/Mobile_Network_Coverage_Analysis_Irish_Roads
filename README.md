@@ -75,6 +75,14 @@ python m7_coverage_3gpp_analysis.py
 - **OpenStreetMap:** Geographic road network data
 - **3GPP:** Standardized propagation models
 
+## Data Files Note
+This repository excludes large data files to maintain reasonable repository size:
+- **Excluded:** `data/RAW_TII/` folder containing 84 Excel files with raw traffic data
+- **Excluded:** PDF files including `scripts/124101779.pdf` and thesis figures
+- **Included:** Processed data files, analysis results, and smaller datasets
+
+To obtain the complete dataset, the raw TII traffic data files would need to be downloaded separately from the original TII data sources.
+
 ## Technologies Used
 - **Python Libraries:** pandas, numpy, geopandas, scikit-learn, matplotlib
 - **Analysis Methods:** K-means clustering, DBSCAN, spatial analysis
